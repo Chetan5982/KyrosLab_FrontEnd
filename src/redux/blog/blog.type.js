@@ -1,0 +1,8 @@
+export const CREATE_BLOG = "CREATE_BLOG";
+export const EDIT_BLOG = "EDIT_BLOG";
+export const DELETE_BLOG = "DELETE_BLOG";
+export const GET_ALL_BLOG = "GET_ALL_BLOG";
+export const UPLOAD_BLOG_IMAGE = "UPLOAD_BLOG_IMAGE";
+export const UPLOAD_BLOG_IMAGE_WITH_URL = "UPLOAD_BLOG_IMAGE_WITH_URL";
+export const CREATE_CATEGORY = "CREATE_CATEGORY";
+export const GET_CATEGORY = "GET_CATEGORY";

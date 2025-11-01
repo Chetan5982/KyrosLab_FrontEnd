@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_bold_italic-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_bold_italic-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_bold-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_bold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_medium_italic-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_medium_italic-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_medium-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_regular_italic-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_regular_italic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_regular-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_ultra_light_italic-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_ultra_light_italic-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LEMON MILK Pro FTR';
+    src: url('lemon_milk_pro_ultra_light-webfont.woff2') format('woff2'),
+        url('lemon_milk_pro_ultra_light-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+
+}
