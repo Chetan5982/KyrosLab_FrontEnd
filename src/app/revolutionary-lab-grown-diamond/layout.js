@@ -15,7 +15,7 @@ export const metadata = {
       "Uncover Bhanderi's revolutionary lab grown diamonds, where innovation meets sustainability. Experience exquisite craftsmanship and a sparkling future.",
     images: [
       {
-        url: "http://images.blgdlab.com/revolutionary/lab-grown-diamond-infrastructure.png",
+        url: "https://images.blgdlab.com/revolutionary/lab-grown-diamond-infrastructure.png",
       },
     ],
   },
@@ -28,7 +28,7 @@ export const metadata = {
       "Embrace the brilliance of Ethically Crafted Bhanderi diamonds for jewelers. High-quality, sustainable and exquisite lab-grown diamonds for your designs.",
     images: [
       {
-        url: "http://images.blgdlab.com/revolutionary/lab-grown-diamond-infrastructure.png",
+        url: "https://images.blgdlab.com/revolutionary/lab-grown-diamond-infrastructure.png",
       },
     ],
   },

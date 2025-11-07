@@ -15,7 +15,7 @@ export const metadata = {
       "Embrace the brilliance of Ethically Crafted Bhanderi diamonds for jewelers. High-quality, sustainable and exquisite lab-grown diamonds for your designs.",
     images: [
       {
-        url: "http://images.blgdlab.com/jewelers/compressimg/jweller-fiest-compressed.jpg",
+        url: "https://images.blgdlab.com/jewelers/compressimg/jweller-fiest-compressed.jpg",
       },
     ],
   },
@@ -28,7 +28,7 @@ export const metadata = {
       "Embrace the brilliance of Ethically Crafted Bhanderi diamonds for jewelers. High-quality, sustainable and exquisite lab-grown diamonds for your designs.",
     images: [
       {
-        url: "http://images.blgdlab.com/jewelers/compressimg/jweller-fiest-compressed.jpg",
+        url: "https://images.blgdlab.com/jewelers/compressimg/jweller-fiest-compressed.jpg",
       },
     ],
   },

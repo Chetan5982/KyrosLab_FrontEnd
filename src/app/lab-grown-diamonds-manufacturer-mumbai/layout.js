@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Lab Grown Diamonds Manufacturer Mumbai",
-    image: "http://images.blgdlab.com/LocationMumbai/MumbaiofficesImg.png",
+    image: "https://images.blgdlab.com/LocationMumbai/MumbaiofficesImg.png",
     "@id": " https://blgdlab.com/",
     url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-mumbai",
     telephone: "+91 97264 32003",

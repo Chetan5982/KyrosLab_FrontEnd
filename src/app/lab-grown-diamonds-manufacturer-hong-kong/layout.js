@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Lab Grown Diamonds Manufacturer Hong Kong",
-    image: "http://images.blgdlab.com/LocationHongKong/hongkongofficesec.png",
+    image: "https://images.blgdlab.com/LocationHongKong/hongkongofficesec.png",
     "@id": " https://blgdlab.com/",
     url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-hong-kong",
     telephone: "+852 2723 1243",

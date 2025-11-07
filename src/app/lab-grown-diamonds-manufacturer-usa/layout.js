@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Lab Grown Diamond Manufacturer USA",
-    image: "http://images.blgdlab.com/LocationUSA/UsaOffice.png",
+    image: "https://images.blgdlab.com/LocationUSA/UsaOffice.png",
     "@id": " https://blgdlab.com/",
     url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-usa",
     telephone: "+1 212 278 0905",

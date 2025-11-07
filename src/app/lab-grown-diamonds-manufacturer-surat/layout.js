@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Lab Grown Diamonds Manufacturer Surat",
-    image: "http://images.blgdlab.com/LocationSURAT/SuratOffice.png",
+    image: "https://images.blgdlab.com/LocationSURAT/SuratOffice.png",
     "@id": "https://blgdlab.com/",
     url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-surat",
     telephone: "+91 85003 85003",

@@ -19,18 +19,18 @@ body {
 }
 
 [type="date"] {
-  background: url(http://images.blgdlab.com/Bookappoinment/datepicker.svg)
+  background: url(https://images.blgdlab.com/Bookappoinment/datepicker.svg)
     100% 50% no-repeat;
   background-size: 50px;
   text-transform: uppercase;
 }
 [type="emailbook"] {
-  background: url(http://images.blgdlab.com/Homepage/smsfinal.svg)
+  background: url(https://images.blgdlab.com/Homepage/smsfinal.svg)
     100% 50% no-repeat;
   background-size: 50px;
 }
 [type="numberbook"] {
-  background: url(http://images.blgdlab.com/Homepage/phonewhite.svg)
+  background: url(https://images.blgdlab.com/Homepage/phonewhite.svg)
     100% 50% no-repeat !important;
   background-size: 50px !important;
 }
@@ -56,7 +56,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 [type="time"] {
-  background: url(http://images.blgdlab.com/Bookappoinment/timepicker.svg)
+  background: url(https://images.blgdlab.com/Bookappoinment/timepicker.svg)
     100% 50% no-repeat;
   background-size: 50px;
   text-transform: uppercase;
