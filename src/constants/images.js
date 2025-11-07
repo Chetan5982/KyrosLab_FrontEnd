@@ -1,554 +1,516 @@
 // ---------------------------------------------HEADER--------------------------------------------
-export const mainLogo = "https://d1tmxmmhy79644.cloudfront.net/Header/logo.svg";
-export const HeaderMenu =
-  "https://d1tmxmmhy79644.cloudfront.net/Header/menuNew.svg";
-export const HeaderClose =
-  "https://d1tmxmmhy79644.cloudfront.net/Header/close.png";
-export const HeaderLogin =
-  "https://d1tmxmmhy79644.cloudfront.net/Header/Login.svg";
-export const MenuArrow =
-  "https://d1tmxmmhy79644.cloudfront.net/Header/menuArrow.png";
+export const mainLogo = "http://images.blgdlab.com/Header/logo.svg";
+export const HeaderMenu = "http://images.blgdlab.com/Header/menuNew.svg";
+export const HeaderClose = "http://images.blgdlab.com/Header/close.png";
+export const HeaderLogin = "http://images.blgdlab.com/Header/Login.svg";
+export const MenuArrow = "http://images.blgdlab.com/Header/menuArrow.png";
 
 // ---------------------------------------------FOOTER--------------------------------------------
 export const FooterRing =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/compressimg/footerRingNew.jpg";
-export const vector =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/vector2.svg";
-export const Facebook =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/facebook.svg";
-export const Instagram =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/instagram.svg";
-export const Linkedin =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/linkedin.svg";
-export const Twitter =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/twitter.svg";
-export const Youtube =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/youtube.svg";
+  "http://images.blgdlab.com/Footer/compressimg/footerRingNew.jpg";
+export const vector = "http://images.blgdlab.com/Footer/vector2.svg";
+export const Facebook = "http://images.blgdlab.com/Footer/facebook.svg";
+export const Instagram = "http://images.blgdlab.com/Footer/instagram.svg";
+export const Linkedin = "http://images.blgdlab.com/Footer/linkedin.svg";
+export const Twitter = "http://images.blgdlab.com/Footer/twitter.svg";
+export const Youtube = "http://images.blgdlab.com/Footer/youtube.svg";
 export const FooterBhanderiWhite =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/BhanderiWhiteLogo.svg";
-export const Email =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/emailIcon.svg";
-export const EmailWhite =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/smsfinal.svg";
-export const PhoneWhite =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/phonewhite.svg";
-export const Phone =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/callPhone.svg";
-export const playStore =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/Googleplay.png";
-export const appStore =
-  "https://d1tmxmmhy79644.cloudfront.net/Footer/AppStore.png";
+  "http://images.blgdlab.com/Footer/BhanderiWhiteLogo.svg";
+export const Email = "http://images.blgdlab.com/Footer/emailIcon.svg";
+export const EmailWhite = "http://images.blgdlab.com/Homepage/smsfinal.svg";
+export const PhoneWhite = "http://images.blgdlab.com/Homepage/phonewhite.svg";
+export const Phone = "http://images.blgdlab.com/Footer/callPhone.svg";
+export const playStore = "http://images.blgdlab.com/Footer/Googleplay.png";
+export const appStore = "http://images.blgdlab.com/Footer/AppStore.png";
 
 // ---------------------------------------------HOME--------------------------------------------
 export const homeBaneerImage =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/home-diamonds-com.png";
+  "http://images.blgdlab.com/Homepage/compressimg/home-diamonds-com.png";
 export const homeBaneerImageMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/home-diamonds-mobile.jpg";
+  "http://images.blgdlab.com/Homepage/compressimg/home-diamonds-mobile.jpg";
 export const homeBaneerImageTablat =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/home-diamonds-tablet.jpg";
+  "http://images.blgdlab.com/Homepage/compressimg/home-diamonds-tablet.jpg";
 
 export const homeReactorImage =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/reactordes.png";
+  "http://images.blgdlab.com/Homepage/compressimg/reactordes.png";
 export const homeReactorImageMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/reactormobil-compressed.jpg";
+  "http://images.blgdlab.com/Homepage/compressimg/reactormobil-compressed.jpg";
 
 export const homeRndlabImage =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/r&d-labs.png";
+  "http://images.blgdlab.com/Homepage/compressimg/r&d-labs.png";
 export const homeRndlabImageMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/r%26d-labs-mobile.png";
+  "http://images.blgdlab.com/Homepage/r%26d-labs-mobile.png";
 export const homeRndlabImageTablet =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/bulidingtablet.png";
+  "http://images.blgdlab.com/Homepage/bulidingtablet.png";
 
 export const homepolishingImage =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/polished400.jpg";
+  "http://images.blgdlab.com/Homepage/compressimg/polished400.jpg";
 export const homepolishingImageMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/polishing.png";
+  "http://images.blgdlab.com/Homepage/compressimg/polishing.png";
 
 export const homeTypeIIImage =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/compressimg/type-iia-diamonds.jpg";
+  "http://images.blgdlab.com/Homepage/compressimg/type-iia-diamonds.jpg";
 export const homeTypeIIImageMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/type-iia-diamonds-mobile1.png";
+  "http://images.blgdlab.com/Homepage/type-iia-diamonds-mobile1.png";
 
 export const homePopupImage =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/homebannerpopup.jpeg";
+  "http://images.blgdlab.com/Homepage/homebannerpopup.jpeg";
 
-export const Emailbook =
-  "https://d1tmxmmhy79644.cloudfront.net/Homepage/email.svg";
+export const Emailbook = "http://images.blgdlab.com/Homepage/email.svg";
 
 // ---------------------------------------------ABOUT--------------------------------------------
 
 export const aboutMainBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/about-diamond.jpg";
+  "http://images.blgdlab.com/aboutpage/about-diamond.jpg";
 export const aboutMainMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/about-diamond-mobile.jpg";
+  "http://images.blgdlab.com/aboutpage/about-diamond-mobile.jpg";
 export const aboutMainTablet =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/about-diamond-teblet.jpg";
+  "http://images.blgdlab.com/aboutpage/about-diamond-teblet.jpg";
 export const aboutMainLeptop =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/about-diamond-laptop.jpg";
+  "http://images.blgdlab.com/aboutpage/about-diamond-laptop.jpg";
 
 export const aboutbulding =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/Compressimg/buildingcompressed.jpg";
+  "http://images.blgdlab.com/aboutpage/Compressimg/buildingcompressed.jpg";
 
 export const aboutringVision =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/Compressimg/about-ring-compressed1.jpg";
+  "http://images.blgdlab.com/aboutpage/Compressimg/about-ring-compressed1.jpg";
 export const aboutringVisionMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/Compressimg/about-ring-mobile1-compressed.jpg";
+  "http://images.blgdlab.com/aboutpage/Compressimg/about-ring-mobile1-compressed.jpg";
 
 export const imactImg =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/Compressimg/trees.jpg";
+  "http://images.blgdlab.com/aboutpage/Compressimg/trees.jpg";
 export const imactImgMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/treemobile.png";
+  "http://images.blgdlab.com/aboutpage/treemobile.png";
 
-export const Aboutpurity =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/purity.png";
-export const Aboutquality1 =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/quality1.png";
-export const Aboutpromise =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/promise.png";
-export const Aboutintent =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/intent.png";
+export const Aboutpurity = "http://images.blgdlab.com/aboutpage/purity.png";
+export const Aboutquality1 = "http://images.blgdlab.com/aboutpage/quality1.png";
+export const Aboutpromise = "http://images.blgdlab.com/aboutpage/promise.png";
+export const Aboutintent = "http://images.blgdlab.com/aboutpage/intent.png";
 
 export const OurteamMan =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/Compressimg/manabout.jpg";
+  "http://images.blgdlab.com/aboutpage/Compressimg/manabout.jpg";
 export const OurteamGlassMan =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/Compressimg/glass.jpg";
+  "http://images.blgdlab.com/aboutpage/Compressimg/glass.jpg";
 export const OurteamWoman =
-  "https://d1tmxmmhy79644.cloudfront.net/aboutpage/woman-mobile.png";
+  "http://images.blgdlab.com/aboutpage/woman-mobile.png";
 
 // ---------------------------------------------revolutionary--------------------------------------------
 
 export const RevolutionaryMainBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/revolutionary-archetype-compressed.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/revolutionary-archetype-compressed.jpg";
 export const RevolutionaryMainBannerMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/revolutionary-archetype-mobile-compressed.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/revolutionary-archetype-mobile-compressed.jpg";
 
 export const NoWater =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/water.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/water.jpg";
 export const NoWaterMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/no-water-wasted-mobile.png";
+  "http://images.blgdlab.com/revolutionary/no-water-wasted-mobile.png";
 
 export const NonPolluting =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/pollution.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/pollution.jpg";
 export const NonPollutingMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/non-polluting-energy-mobile.png";
+  "http://images.blgdlab.com/revolutionary/non-polluting-energy-mobile.png";
 
 export const NoEarth =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/earth.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/earth.jpg";
 export const NoEarthMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/no-earth-uprooted-mobile.png";
+  "http://images.blgdlab.com/revolutionary/no-earth-uprooted-mobile.png";
 
 export const NonToxic =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/non-toxic-air.png";
+  "http://images.blgdlab.com/revolutionary/non-toxic-air.png";
 export const NonToxicMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/non-toxic-air-mobile.png";
+  "http://images.blgdlab.com/revolutionary/non-toxic-air-mobile.png";
 
 export const NonConflict =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/non-conflict-compressed.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/non-conflict-compressed.jpg";
 export const NonConflictMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/non-conflict-mobile.png";
+  "http://images.blgdlab.com/revolutionary/non-conflict-mobile.png";
 
 export const NonDestructive =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/Compressimg/non-destructive-production-compressed.jpg";
+  "http://images.blgdlab.com/revolutionary/Compressimg/non-destructive-production-compressed.jpg";
 export const NonDestructiveMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/non-destructive-production-mobile.png";
+  "http://images.blgdlab.com/revolutionary/non-destructive-production-mobile.png";
 
 export const AboutInfrastructure =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/lab-grown-diamond-infrastructure.png";
+  "http://images.blgdlab.com/revolutionary/lab-grown-diamond-infrastructure.png";
 export const Benefitsoflab =
-  "https://d1tmxmmhy79644.cloudfront.net/revolutionary/benefits-of-lab1.jpg";
+  "http://images.blgdlab.com/revolutionary/benefits-of-lab1.jpg";
 
 // ---------------------------------------------Product--------------------------------------------
 
 export const ProductMainBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/productFirstImg1-compressed.jpg";
+  "http://images.blgdlab.com/Productpage/Compressimg/productFirstImg1-compressed.jpg";
 export const ProductMainBannermobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/productMobileViewFirstImage1.png";
+  "http://images.blgdlab.com/Productpage/productMobileViewFirstImage1.png";
 
 export const ProductDaimond =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/diamondnew-compressed.jpg";
+  "http://images.blgdlab.com/Productpage/Compressimg/diamondnew-compressed.jpg";
 export const ProductDaimondMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/mobile-diamonds.png";
+  "http://images.blgdlab.com/Productpage/mobile-diamonds.png";
 export const ProductDaimondTablet =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/diamondtablet-compressed.jpg";
+  "http://images.blgdlab.com/Productpage/Compressimg/diamondtablet-compressed.jpg";
 
 export const ProductRoughLab =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/roughLab-compressed.jpg";
+  "http://images.blgdlab.com/Productpage/Compressimg/roughLab-compressed.jpg";
 export const ProductPolisedLab =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/polishedLab.jpg";
+  "http://images.blgdlab.com/Productpage/Compressimg/polishedLab.jpg";
 export const ProductTypeTwo =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/iiaDiamonds.jpg";
+  "http://images.blgdlab.com/Productpage/Compressimg/iiaDiamonds.jpg";
 
-export const Productarrow =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/arrow.png";
+export const Productarrow = "http://images.blgdlab.com/Productpage/arrow.png";
 
-export const Productblack =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/black.png";
+export const Productblack = "http://images.blgdlab.com/Productpage/black.png";
 export const ProductblackMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Productpage/mobileblack.png";
+  "http://images.blgdlab.com/Productpage/mobileblack.png";
 
 // ---------------------------------------------Director--------------------------------------------
 
 export const MainDirector =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/compressimg/directorsmob-compressed.jpg";
+  "http://images.blgdlab.com/Director/compressimg/directorsmob-compressed.jpg";
 export const MainDirectorMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/directorsmob.png";
+  "http://images.blgdlab.com/Director/directorsmob.png";
 
 export const dairectordaimond =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/directorDiamond.png";
+  "http://images.blgdlab.com/Director/directorDiamond.png";
 export const dairectordaimondmobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/Dmobile.svg";
+  "http://images.blgdlab.com/Director/Dmobile.svg";
 
 export const dairectorRectangal =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/director-rectangle.png";
+  "http://images.blgdlab.com/Director/director-rectangle.png";
 
 export const dairectorLastImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/compressimg/director-lastimg-compressed.jpg";
+  "http://images.blgdlab.com/Director/compressimg/director-lastimg-compressed.jpg";
 export const dairectorLastImgMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/compressimg/director-lastimgmobile-compressed.jpg";
+  "http://images.blgdlab.com/Director/compressimg/director-lastimgmobile-compressed.jpg";
 export const dairectorLastImgSmallMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Director/directorSmallmobile.png";
+  "http://images.blgdlab.com/Director/directorSmallmobile.png";
 
 // ---------------------------------------------traders--------------------------------------------
 
 export const TradersMainBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/compressimg/trader-ring-compressed.jpg";
+  "http://images.blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg";
 export const TradersMainBannerMobiles =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/tradermobile.png";
+  "http://images.blgdlab.com/Traders/tradermobile.png";
 export const TradersMainBannerTablat =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/tradertable.png";
+  "http://images.blgdlab.com/Traders/tradertable.png";
 
 export const InventorySize =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/InventorySize.png";
+  "http://images.blgdlab.com/Traders/InventorySize.png";
 export const InventoryStones =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/InventoryStones.png";
+  "http://images.blgdlab.com/Traders/InventoryStones.png";
 export const ExportCountries =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/ExportCountries.png";
+  "http://images.blgdlab.com/Traders/ExportCountries.png";
 
 export const TradersContactnowBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/compressimg/TradersContactnowBanner.jpg";
+  "http://images.blgdlab.com/Traders/compressimg/TradersContactnowBanner.jpg";
 export const TradersContactnowBannermobile =
-  "https://d1tmxmmhy79644.cloudfront.net/Traders/tradersContactnowBannermobile.png";
+  "http://images.blgdlab.com/Traders/tradersContactnowBannermobile.png";
 
 // ---------------------------------------------Jewelers--------------------------------------------
 export const JewelersMainBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/compressimg/jewelers-first-compressed.jpg";
+  "http://images.blgdlab.com/jewelers/compressimg/jewelers-first-compressed.jpg";
 export const JewelersMainBannerMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/jewelersmobile.png";
+  "http://images.blgdlab.com/jewelers/jewelersmobile.png";
 export const JewelersMainBannerTablet =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/jewelerslastablat.png";
+  "http://images.blgdlab.com/jewelers/jewelerslastablat.png";
 
 export const JewelersCostEffective =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/CostEffective.png";
+  "http://images.blgdlab.com/jewelers/CostEffective.png";
 export const JewelersCustomerSupport =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/CustomerSupport.png";
+  "http://images.blgdlab.com/jewelers/CustomerSupport.png";
 export const JewelersWorldwideDelivery =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/WorldwideDelivery.png";
+  "http://images.blgdlab.com/jewelers/WorldwideDelivery.png";
 export const JewelersUnmatchedQuality =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/UnmatchedQuality.png";
+  "http://images.blgdlab.com/jewelers/UnmatchedQuality.png";
 
 export const JewelersContactnowBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/jewelers/JewelersContactnowBanner.png";
+  "http://images.blgdlab.com/jewelers/JewelersContactnowBanner.png";
 
 // ---------------------------------------------Contact us--------------------------------------------
 
-export const SuratImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/SURAT_NEW.svg";
+export const SuratImg = "http://images.blgdlab.com/Contactus/SURAT_NEW.svg";
 export const MumbaiImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/MUMBAI_101025.svg";
+  "http://images.blgdlab.com/Contactus/MUMBAI_101025.svg";
 export const HongkongImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/HONGKONG_NEW.svg";
-export const NewYorkImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/NEWYORK_NEW.svg";
-// export const EuropeImg='https://d1tmxmmhy79644.cloudfront.net/Contactus/AntwerpDestop.svg'
-// export const DubaiImg='https://d1tmxmmhy79644.cloudfront.net/Contactus/DubaiDes.svg'
+  "http://images.blgdlab.com/Contactus/HONGKONG_NEW.svg";
+export const NewYorkImg = "http://images.blgdlab.com/Contactus/NEWYORK_NEW.svg";
+// export const EuropeImg='http://images.blgdlab.com/Contactus/AntwerpDestop.svg'
+// export const DubaiImg='http://images.blgdlab.com/Contactus/DubaiDes.svg'
 
 export const mobileSuratImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/SURATM_NEW.svg";
+  "http://images.blgdlab.com/Contactus/SURATM_NEW.svg";
 export const mobileMumbaiImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/MUMBAIM_101025.svg";
+  "http://images.blgdlab.com/Contactus/MUMBAIM_101025.svg";
 export const mobileHongkongImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/HONGKONGM_NEW.svg";
+  "http://images.blgdlab.com/Contactus/HONGKONGM_NEW.svg";
 export const mobileNewYorkImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Contactus/NEWYORKM_NEW.svg";
-// export const mobileEuropeImg='https://d1tmxmmhy79644.cloudfront.net/Contactus/antwerpmo.svg'
-// export const mobileDubaiImg='https://d1tmxmmhy79644.cloudfront.net/Contactus/dubobile.svgaim'
+  "http://images.blgdlab.com/Contactus/NEWYORKM_NEW.svg";
+// export const mobileEuropeImg='http://images.blgdlab.com/Contactus/antwerpmo.svg'
+// export const mobileDubaiImg='http://images.blgdlab.com/Contactus/dubobile.svgaim'
 
 // ---------------------------------------------Bookappoinment--------------------------------------------
 export const Datepicker =
-  "https://d1tmxmmhy79644.cloudfront.net/Bookappoinment/datepicker.svg";
+  "http://images.blgdlab.com/Bookappoinment/datepicker.svg";
 export const Timepicker =
-  "https://d1tmxmmhy79644.cloudfront.net/Bookappoinment/timepicker.svg";
+  "http://images.blgdlab.com/Bookappoinment/timepicker.svg";
 export const Bookpopupvirtual =
-  "https://d1tmxmmhy79644.cloudfront.net/Bookappoinment/Remote+team-rafiki.svg";
+  "http://images.blgdlab.com/Bookappoinment/Remote+team-rafiki.svg";
 export const BookpopupOffice =
-  "https://d1tmxmmhy79644.cloudfront.net/Bookappoinment/Meeting-amico.svg";
-export const ClosePopup =
-  "https://d1tmxmmhy79644.cloudfront.net/Bookappoinment/Close.svg";
+  "http://images.blgdlab.com/Bookappoinment/Meeting-amico.svg";
+export const ClosePopup = "http://images.blgdlab.com/Bookappoinment/Close.svg";
 
 // ---------------------------------------------Gallary--------------------------------------------
 export const gallarymainbanner =
-  "https://d1tmxmmhy79644.cloudfront.net/gallary/compressimg/gallary-compressed.jpg";
+  "http://images.blgdlab.com/gallary/compressimg/gallary-compressed.jpg";
 
 // ---------------------------------------------Location Page USA--------------------------------------------
 export const mainimgUsa =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/LocationUSA.png";
+  "http://images.blgdlab.com/LocationUSA/LocationUSA.png";
 export const mainimgUsaTablet =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/USAMainTablet.png";
+  "http://images.blgdlab.com/LocationUSA/USAMainTablet.png";
 export const mainimgUsaMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/Usamailmobile.png";
+  "http://images.blgdlab.com/LocationUSA/Usamailmobile.png";
 
 export const maploactionUsa =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/NEWYORK_FOOTER.svg";
+  "http://images.blgdlab.com/LocationUSA/NEWYORK_FOOTER.svg";
 export const officeglobe =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/UsaOffice.png";
+  "http://images.blgdlab.com/LocationUSA/UsaOffice.png";
 export const phone_line =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/phone-line.svg";
-export const mail_line =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/mail-line.svg";
+  "http://images.blgdlab.com/LocationUSA/phone-line.svg";
+export const mail_line = "http://images.blgdlab.com/LocationUSA/mail-line.svg";
 export const contactimg =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/contactusback.png";
-export const downarrow =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/DownArrow.svg";
-export const blackarrow =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationUSA/blackdown.svg";
+  "http://images.blgdlab.com/LocationUSA/contactusback.png";
+export const downarrow = "http://images.blgdlab.com/LocationUSA/DownArrow.svg";
+export const blackarrow = "http://images.blgdlab.com/LocationUSA/blackdown.svg";
 
 // ---------------------------------------------Location Page SURAT--------------------------------------------
 
 export const suratmain =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationSURAT/suratmainbanner.png";
+  "http://images.blgdlab.com/LocationSURAT/suratmainbanner.png";
 export const suratmainTablate =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationSURAT/suratmainbannerTablet.png";
+  "http://images.blgdlab.com/LocationSURAT/suratmainbannerTablet.png";
 export const suratmainMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationSURAT/suratmainbannerMobile.png";
+  "http://images.blgdlab.com/LocationSURAT/suratmainbannerMobile.png";
 export const SuratMap =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationSURAT/SURAT_FOOTER.svg";
+  "http://images.blgdlab.com/LocationSURAT/SURAT_FOOTER.svg";
 export const SuratOffice =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationSURAT/SuratOffice.png";
+  "http://images.blgdlab.com/LocationSURAT/SuratOffice.png";
 
 // ---------------------------------------------Location Page Hong Kong--------------------------------------------
 
 export const hongkongmain =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationHongKong/hongkongmain.png";
+  "http://images.blgdlab.com/LocationHongKong/hongkongmain.png";
 export const hongkongtablet =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationHongKong/hongkongtablet.png";
+  "http://images.blgdlab.com/LocationHongKong/hongkongtablet.png";
 export const hongkongmobile =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationHongKong/hongkongmobile.png";
+  "http://images.blgdlab.com/LocationHongKong/hongkongmobile.png";
 export const hongkongoffice =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationHongKong/hongkongofficesec.png";
+  "http://images.blgdlab.com/LocationHongKong/hongkongofficesec.png";
 export const hongkongmap =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationHongKong/HONGKONG_FOOTER.svg";
+  "http://images.blgdlab.com/LocationHongKong/HONGKONG_FOOTER.svg";
 
 // ---------------------------------------------Location Page Hong Kong--------------------------------------------
 
 export const dubaimain =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationDubai/dubaimain.png";
+  "http://images.blgdlab.com/LocationDubai/dubaimain.png";
 export const dubaitablet =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationDubai/dubaitablet.png";
+  "http://images.blgdlab.com/LocationDubai/dubaitablet.png";
 export const dubaimobile =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationDubai/dubaimobile.png";
+  "http://images.blgdlab.com/LocationDubai/dubaimobile.png";
 export const dubaioffice =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationDubai/dubaiofficeImg.png";
-export const dubaimap =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationDubai/dubaimap.png";
+  "http://images.blgdlab.com/LocationDubai/dubaiofficeImg.png";
+export const dubaimap = "http://images.blgdlab.com/LocationDubai/dubaimap.png";
 
 // ---------------------------------------------Location Page Mumbai--------------------------------------------
 export const Mumbaimain =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationMumbai/mainMumbai.png";
+  "http://images.blgdlab.com/LocationMumbai/mainMumbai.png";
 export const Mumbaitablet =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationMumbai/Mumbaitablet.png";
+  "http://images.blgdlab.com/LocationMumbai/Mumbaitablet.png";
 export const Mumbaimobile =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationMumbai/MumbaiMobile.png";
+  "http://images.blgdlab.com/LocationMumbai/MumbaiMobile.png";
 export const Mumbaioffice =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationMumbai/MumbaiofficesImg.png";
+  "http://images.blgdlab.com/LocationMumbai/MumbaiofficesImg.png";
 export const Mumbaimap =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationMumbai/MUMBAI_FOOTER.svg";
+  "http://images.blgdlab.com/LocationMumbai/MUMBAI_FOOTER.svg";
 
 // ---------------------------------------------Location Page Antwerp--------------------------------------------
 export const Antwerpmain =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationAntwerp/mainAnwerp.png";
+  "http://images.blgdlab.com/LocationAntwerp/mainAnwerp.png";
 export const Antwerptablet =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationAntwerp/Antwerptablet.png";
+  "http://images.blgdlab.com/LocationAntwerp/Antwerptablet.png";
 export const Antwerpmobile =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationAntwerp/AntwerpMobile.png";
+  "http://images.blgdlab.com/LocationAntwerp/AntwerpMobile.png";
 export const Antwerpoffice =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationAntwerp/AntwerpofficeImg.png";
+  "http://images.blgdlab.com/LocationAntwerp/AntwerpofficeImg.png";
 export const Antwerpmap =
-  "https://d1tmxmmhy79644.cloudfront.net/LocationAntwerp/Antwerpmap.png";
+  "http://images.blgdlab.com/LocationAntwerp/Antwerpmap.png";
 
 // ---------------------------------------------CVD Page Antwerp--------------------------------------------
 
 export const Cvdherodesktop =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/cvd-heroimagedesktop.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/cvd-heroimagedesktop.jpg";
 export const CvdheroMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/cvd-heromobile.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/cvd-heromobile.jpg";
 export const whatwedodes =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/whatwedo.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/whatwedo.jpg";
 export const processstap1 =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/processstap1updated.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/processstap1updated.jpg";
 export const processstap2 =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/processstap2updated.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/processstap2updated.jpg";
 export const processstap3 =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/processstap3updated.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/processstap3updated.jpg";
 export const processstap4 =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/processstap4updated.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/processstap4updated.jpg";
 export const processstap5 =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/processstap5updated.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/processstap5updated.jpg";
 export const processdefinder =
-  "https://d1tmxmmhy79644.cloudfront.net/cvd-diamond-manufacturers/processdefinder.jpg";
+  "http://images.blgdlab.com/cvd-diamond-manufacturers/processdefinder.jpg";
 
 // ---------------------------------------------4Cs Page --------------------------------------------
 
-export const FourCsm = "https://d1tmxmmhy79644.cloudfront.net/4Cs/4csMain.jpg";
-export const FourDiamondCut =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondCut.jpg";
+export const FourCsm = "http://images.blgdlab.com/4Cs/4csMain.jpg";
+export const FourDiamondCut = "http://images.blgdlab.com/4Cs/DiamondCut.jpg";
 export const FourDiamondColor =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColorH.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColorH.jpg";
 export const FourDiamondClarity =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondClarity.png";
+  "http://images.blgdlab.com/4Cs/DiamondClarity.png";
 export const FourDiamondCaratWeight =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondCaratWeightH.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondCaratWeightH.jpg";
 export const FourDiamondCaratWeightMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondCaratWeightMobile.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondCaratWeightMobile.jpg";
 export const FourDiamondColorMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/FourDiamondColorMobilew.png";
+  "http://images.blgdlab.com/4Cs/FourDiamondColorMobilew.png";
 export const FourDiamondCutMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondCutMobile.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondCutMobile.jpg";
 export const FourDiamondClarityMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondCutMobile.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondCutMobile.jpg";
 export const the4csofdiamondsMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/the4csofdiamondsMobile.jpg";
+  "http://images.blgdlab.com/4Cs/the4csofdiamondsMobile.jpg";
 
 // ---------------------------------------------Daimond Cut Page --------------------------------------------
 export const DaimndCutBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/DiamondCutBanner.jpg";
+  "http://images.blgdlab.com/Diamond+Cut/DiamondCutBanner.jpg";
 export const DaimondCutImg =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/DiamondCutFull.jpg";
+  "http://images.blgdlab.com/Diamond+Cut/DiamondCutFull.jpg";
 
-export const DaimondRound =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Round.png";
-export const DaimondOval =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Oval.png";
+export const DaimondRound = "http://images.blgdlab.com/Diamond+Cut/Round.png";
+export const DaimondOval = "http://images.blgdlab.com/Diamond+Cut/Oval.png";
 
 export const DaimondCushion =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Cushion.png";
-export const DaimondPear =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Pear.png";
+  "http://images.blgdlab.com/Diamond+Cut/Cushion.png";
+export const DaimondPear = "http://images.blgdlab.com/Diamond+Cut/Pear.png";
 export const DaimondPrincess =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Princess.png";
+  "http://images.blgdlab.com/Diamond+Cut/Princess.png";
 export const DaimondEmerald =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Emarald.png";
+  "http://images.blgdlab.com/Diamond+Cut/Emarald.png";
 export const DaimondMarquise =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Marquise.png";
+  "http://images.blgdlab.com/Diamond+Cut/Marquise.png";
 export const DaimondAsscher =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Asscher.png";
+  "http://images.blgdlab.com/Diamond+Cut/Asscher.png";
 export const DaimondRadiant =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Radiant.png";
-export const DaimondHeart =
-  "https://d1tmxmmhy79644.cloudfront.net/Diamond+Cut/Heart.png";
+  "http://images.blgdlab.com/Diamond+Cut/Radiant.png";
+export const DaimondHeart = "http://images.blgdlab.com/Diamond+Cut/Heart.png";
 export const DaimondCutHero =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/Daimond-Cut/diamondCutHero.jpg";
+  "http://images.blgdlab.com/4Cs/Daimond-Cut/diamondCutHero.jpg";
 
 // ---------------------------------------------Daimond Color Page --------------------------------------------
 export const DaimndColorBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/DiamondColorHero.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/DiamondColorHero.jpg";
 export const DaimndColorBannerMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/DiamondColorHeroMobile.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/DiamondColorHeroMobile.jpg";
 
 export const DaimndColorless =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/Colorless.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/Colorless.jpg";
 export const DaimndNearColorless =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/NearColorless.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/NearColorless.jpg";
 export const DaimndCloseToNotisable =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/CloseToNotisable.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/CloseToNotisable.jpg";
 export const DaimndNoticeableColor =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/NoticeableColor.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/NoticeableColor.jpg";
 export const DaimndFullyNoticeableColor =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/DiamondColor/FullyNoticeableColor.jpg";
+  "http://images.blgdlab.com/4Cs/DiamondColor/FullyNoticeableColor.jpg";
 
 // ---------------------------------------------Daimond Clarity Page --------------------------------------------
 export const DaimndClarityBanner =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/DaimondClarityHero.jpg";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/DaimondClarityHero.jpg";
 export const DaimndClarityBannerMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/DaimondClarityMobile.jpg";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/DaimondClarityMobile.jpg";
 
 export const DaimndClarityFlawless =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/Flawless.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/Flawless.png";
 export const DaimndClarityInternallyFlawless =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/InternallyFlawless.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/InternallyFlawless.png";
 export const DaimndClarityVeryVerySlightlyIncluded =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/VeryVerySlightlyIncluded2.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/VeryVerySlightlyIncluded2.png";
 export const DaimndClarityVerySlightlyIncluded =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/VerySlightlyIncluded.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/VerySlightlyIncluded.png";
 export const DaimndClaritySlightlyIncludedone =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/SlightlyIncludedone.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/SlightlyIncludedone.png";
 export const DaimndClaritySlightlyIncludedtwo =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/SlightlyIncludedtwo.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/SlightlyIncludedtwo.png";
 export const DaimndClarityIncludedone =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/Includedone.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/Includedone.png";
 export const DaimndClarityIncludedtwo =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/daimond-clarity/Includedtwo.png";
+  "http://images.blgdlab.com/4Cs/daimond-clarity/Includedtwo.png";
 
 // ---------------------------------------------Diamond Carat Weight --------------------------------------------
 export const CaratWeightBannerDesktop =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/CaratWeightbannerDesktop.jpg";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/CaratWeightbannerDesktop.jpg";
 export const CaratWeightBannerMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/CaratWeightbannerMobile.jpg";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/CaratWeightbannerMobile.jpg";
 
 export const DaimondSizeOne =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/firstCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/firstCt.png";
 export const DaimondSizeTwo =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/secondCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/secondCt.png";
 export const DaimondSizeThree =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/ThirdCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/ThirdCt.png";
 export const DaimondSizeFour =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/FourthCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/FourthCt.png";
 export const DaimondSizeFive =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/FifthCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/FifthCt.png";
 export const DaimondSizeSix =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/SixthCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/SixthCt.png";
 export const DaimondSizeSeven =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/EighthCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/EighthCt.png";
 export const DaimondSizeEight =
-  "https://d1tmxmmhy79644.cloudfront.net/4Cs/CaratWeightbannerDesktop/NiniethCt.png";
+  "http://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/NiniethCt.png";
 
 // ---------------------------------------------Diamond Shapes --------------------------------------------
 
 export const daimondShapeHero =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/diamondShapeHero.jpg";
+  "http://images.blgdlab.com/diamondShapes/diamondShapeHero.jpg";
 export const daimondShapeMobile =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/shapeheroMobile.jpg";
+  "http://images.blgdlab.com/diamondShapes/shapeheroMobile.jpg";
 export const daimondShapeRound =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/RoundShape.jpg";
+  "http://images.blgdlab.com/diamondShapes/RoundShape.jpg";
 export const daimondShapeRoundG =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/RoundShapeG.jpg";
+  "http://images.blgdlab.com/diamondShapes/RoundShapeG.jpg";
 
 export const daimondRound =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/MainRound.png";
+  "http://images.blgdlab.com/diamondShapes/MainRound.png";
 export const OvalShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/OvalShape.png";
+  "http://images.blgdlab.com/diamondShapes/OvalShape.png";
 export const RadiantShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/RadiantShape.png";
+  "http://images.blgdlab.com/diamondShapes/RadiantShape.png";
 export const EmeraldShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/EmeraldShape.png";
+  "http://images.blgdlab.com/diamondShapes/EmeraldShape.png";
 export const PearShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/PearShape.png";
+  "http://images.blgdlab.com/diamondShapes/PearShape.png";
 export const CushionShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/CushionShape.png";
+  "http://images.blgdlab.com/diamondShapes/CushionShape.png";
 export const PrincessShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/PrincessShape.png";
+  "http://images.blgdlab.com/diamondShapes/PrincessShape.png";
 export const AsscherShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/AsscherShape.png";
+  "http://images.blgdlab.com/diamondShapes/AsscherShape.png";
 export const MarquiseShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/MarquiseShape.png";
+  "http://images.blgdlab.com/diamondShapes/MarquiseShape.png";
 export const HeartShape =
-  "https://d1tmxmmhy79644.cloudfront.net/diamondShapes/HeartShape.png";
+  "http://images.blgdlab.com/diamondShapes/HeartShape.png";
 
 // ---------------------------------------------Flages --------------------------------------------
-export const FlagIndia = "https://d1tmxmmhy79644.cloudfront.net/Flags/IN.png";
-export const FlagNew_York =
-  "https://d1tmxmmhy79644.cloudfront.net/Flags/US.png";
-export const FlagHong_Kong =
-  "https://d1tmxmmhy79644.cloudfront.net/Flags/HK.png";
-export const FlagDubai = "https://d1tmxmmhy79644.cloudfront.net/Flags/AE.png";
-export const FlagAntwerp =
-  "https://d1tmxmmhy79644.cloudfront.net/Flags/BLCo.png";
+export const FlagIndia = "http://images.blgdlab.com/Flags/IN.png";
+export const FlagNew_York = "http://images.blgdlab.com/Flags/US.png";
+export const FlagHong_Kong = "http://images.blgdlab.com/Flags/HK.png";
+export const FlagDubai = "http://images.blgdlab.com/Flags/AE.png";
+export const FlagAntwerp = "http://images.blgdlab.com/Flags/BLCo.png";

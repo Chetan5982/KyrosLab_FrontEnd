@@ -79,7 +79,7 @@ const blogData = [
     blogType: "qoute",
   },
   {
-    image: "https://d1tmxmmhy79644.cloudfront.net/Rectangle%2085.svg",
+    image: "http://images.blgdlab.com/Rectangle%2085.svg",
     title:
       "The Cut or Clarity Factor: Which Matters Most for Lab Grown Diamonds?",
     date: "April 07, 2023",
