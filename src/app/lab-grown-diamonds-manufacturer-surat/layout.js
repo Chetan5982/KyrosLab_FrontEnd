@@ -7,10 +7,11 @@ export const metadata = {
   alternates: {
     canonical: `https://blgdlab.com/lab-grown-diamonds-manufacturer-surat`,
     languages: {
-      'x-default': 'https://blgdlab.com/lab-grown-diamonds-manufacturer-surat',
-      'en-in': 'https://blgdlab.com/lab-grown-diamonds-manufacturer-surat',
-      'hi-in': 'https://blgdlab.com/lab-grown-diamonds-manufacturer-surat/hi-in',
-    }
+      "x-default": "https://blgdlab.com/lab-grown-diamonds-manufacturer-surat",
+      "en-in": "https://blgdlab.com/lab-grown-diamonds-manufacturer-surat",
+      "hi-in":
+        "https://blgdlab.com/lab-grown-diamonds-manufacturer-surat/hi-in",
+    },
   },
 
   robots: { index: true },
@@ -19,32 +20,33 @@ const Layout = ({ children }) => {
   const schemaData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Lab Grown Diamonds Manufacturer Surat",
-    "image": "https://d1tmxmmhy79644.cloudfront.net/LocationSURAT/SuratOffice.png",
+    name: "Lab Grown Diamonds Manufacturer Surat",
+    image: "http://images.blgdlab.com/LocationSURAT/SuratOffice.png",
     "@id": "https://blgdlab.com/",
-    "url": "https://blgdlab.com/lab-grown-diamonds-manufacturer-surat",
-    "telephone": "+91 85003 85003",
-    "address": {
+    url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-surat",
+    telephone: "+91 85003 85003",
+    address: {
       "@type": "PostalAddress",
-      "streetAddress": "4th Floor, BLGD Corporation, Akshar Building, Opp. Mehta Petrol Pump, Katargam",
-      "addressLocality": "Surat",
-      "postalCode": "395004",
-      "addressCountry": "IN",
-      "addressRegion": "Gujarat"
+      streetAddress:
+        "4th Floor, BLGD Corporation, Akshar Building, Opp. Mehta Petrol Pump, Katargam",
+      addressLocality: "Surat",
+      postalCode: "395004",
+      addressCountry: "IN",
+      addressRegion: "Gujarat",
     },
-    "openingHoursSpecification": {
+    openingHoursSpecification: {
       "@type": "OpeningHoursSpecification",
-      "dayOfWeek": [
+      dayOfWeek: [
         "Monday",
         "Tuesday",
         "Wednesday",
         "Thursday",
         "Friday",
-        "Saturday"
+        "Saturday",
       ],
-      "opens": "09:00",
-      "closes": "18:00"
-    }
+      opens: "09:00",
+      closes: "18:00",
+    },
   };
   return (
     <>

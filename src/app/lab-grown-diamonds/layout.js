@@ -15,33 +15,28 @@ export const metadata = {
       "Bhanderi Lab Grown Diamonds: The epitome of lab to luxury. Explore our collection of rough & polished Lab Made Diamonds for sustainable brilliance.",
     images: [
       {
-        url: "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/daimondnew-compressed.jpg",
+        url: "http://images.blgdlab.com/Productpage/Compressimg/daimondnew-compressed.jpg",
         alt: "Diamond Image",
       },
     ],
   },
-  robots: {  index: true },
+  robots: { index: true },
   twitter: {
     card: "summary",
     site: "@Bhanderi Lab Grown Diamonds",
     title: "Lab Grown Diamonds -  Explore Bhanderi's CVD Diamonds (Type IIa)",
     description:
       "Bhanderi Lab Grown Diamonds: The epitome of lab to luxury. Explore our collection of rough & polished Lab Made Diamonds for sustainable brilliance.",
-      images: [
-        {
-          url: "https://d1tmxmmhy79644.cloudfront.net/Productpage/Compressimg/daimondnew-compressed.jpg",
-        },
-      ],
+    images: [
+      {
+        url: "http://images.blgdlab.com/Productpage/Compressimg/daimondnew-compressed.jpg",
+      },
+    ],
   },
 };
 
 const Layout = ({ children }) => {
-  return (
-    <>
-      
-      {children}
-    </>
-  );
+  return <>{children}</>;
 };
 
 export default Layout;
