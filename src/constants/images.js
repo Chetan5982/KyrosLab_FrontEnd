@@ -4,7 +4,7 @@ export const HeaderMenu = "http://images.blgdlab.com/Header/menuNew.svg";
 export const HeaderClose = "http://images.blgdlab.com/Header/close.png";
 export const HeaderLogin = "http://images.blgdlab.com/Header/Login.svg";
 export const MenuArrow = "http://images.blgdlab.com/Header/menuArrow.png";
-
+/* new Comment */
 // ---------------------------------------------FOOTER--------------------------------------------
 export const FooterRing =
   "http://images.blgdlab.com/Footer/compressimg/footerRingNew.jpg";
