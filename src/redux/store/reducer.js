@@ -10,6 +10,8 @@ import homeBannerSlice from "../homeBanner/homeBanner.reducer";
 import redirectSlice from "../redirect/redirect.reducer";
 import categorySlice from "../category/category.reducer";
 import demoSlice from "../demo/demo.reducer";
+import diamondSearchSlice  from "../diamondSearch/dimaondSearch.reducer";
+
 
 // ==============================|| COMBINE REDUCER ||============================== //
 
@@ -23,6 +25,7 @@ const reducer = combineReducers({
   redirect: redirectSlice,
   category: categorySlice,
   demo: demoSlice,
+  diamond:diamondSearchSlice
 });
 
 export default reducer;

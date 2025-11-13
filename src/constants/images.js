@@ -1,519 +1,519 @@
 // ---------------------------------------------HEADER--------------------------------------------
-export const mainLogo = "https://images.blgdlab.com/Header/logo.svg";
-export const HeaderMenu = "https://images.blgdlab.com/Header/menuNew.svg";
-export const HeaderClose = "https://images.blgdlab.com/Header/close.png";
-export const HeaderLogin = "https://images.blgdlab.com/Header/Login.svg";
-export const MenuArrow = "https://images.blgdlab.com/Header/menuArrow.png";
+export const mainLogo = "https://blgdlab.com/assets/Header/logo.svg";
+export const HeaderMenu = "https://blgdlab.com/assets/Header/menuNew.svg";
+export const HeaderClose = "https://blgdlab.com/assets/Header/close.png";
+export const HeaderLogin = "https://blgdlab.com/assets/Header/Login.svg";
+export const MenuArrow = "https://blgdlab.com/assets/Header/menuArrow.png";
 
 // ---------------------------------------------FOOTER--------------------------------------------
 export const FooterRing =
-  "https://images.blgdlab.com/Footer/compressimg/footerRingNew.jpg";
-export const vector = "https://images.blgdlab.com/Footer/vector2.svg";
-export const Facebook = "https://images.blgdlab.com/Footer/facebook.svg";
-export const Instagram = "https://images.blgdlab.com/Footer/instagram.svg";
-export const Linkedin = "https://images.blgdlab.com/Footer/linkedin.svg";
-export const Twitter = "https://images.blgdlab.com/Footer/twitter.svg";
-export const Youtube = "https://images.blgdlab.com/Footer/youtube.svg";
+  "https://blgdlab.com/assets/Footer/compressimg/footerRingNew.jpg";
+export const vector = "https://blgdlab.com/assets/Footer/vector2.svg";
+export const Facebook = "https://blgdlab.com/assets/Footer/facebook.svg";
+export const Instagram = "https://blgdlab.com/assets/Footer/instagram.svg";
+export const Linkedin = "https://blgdlab.com/assets/Footer/linkedin.svg";
+export const Twitter = "https://blgdlab.com/assets/Footer/twitter.svg";
+export const Youtube = "https://blgdlab.com/assets/Footer/youtube.svg";
 export const FooterBhanderiWhite =
-  "https://images.blgdlab.com/Footer/BhanderiWhiteLogo.svg";
-export const Email = "https://images.blgdlab.com/Footer/emailIcon.svg";
-export const EmailWhite = "https://images.blgdlab.com/Homepage/smsfinal.svg";
-export const PhoneWhite = "https://images.blgdlab.com/Homepage/phonewhite.svg";
-export const Phone = "https://images.blgdlab.com/Footer/callPhone.svg";
-export const playStore = "https://images.blgdlab.com/Footer/Googleplay.png";
-export const appStore = "https://images.blgdlab.com/Footer/AppStore.png";
+  "https://blgdlab.com/assets/Footer/BhanderiWhiteLogo.svg";
+export const Email = "https://blgdlab.com/assets/Footer/emailIcon.svg";
+export const EmailWhite = "https://blgdlab.com/assets/Homepage/smsfinal.svg";
+export const PhoneWhite = "https://blgdlab.com/assets/Homepage/phonewhite.svg";
+export const Phone = "https://blgdlab.com/assets/Footer/callPhone.svg";
+export const playStore = "https://blgdlab.com/assets/Footer/Googleplay.png";
+export const appStore = "https://blgdlab.com/assets/Footer/AppStore.png";
 
 // ---------------------------------------------HOME--------------------------------------------
 export const homeBaneerImage =
-  "https://images.blgdlab.com/Homepage/compressimg/home-diamonds-com.png";
+  "https://blgdlab.com/assets/Homepage/compressimg/home-diamonds-com.png";
 export const homeBaneerImageMobile =
-  "https://images.blgdlab.com/Homepage/compressimg/home-diamonds-mobile.jpg";
+  "https://blgdlab.com/assets/Homepage/compressimg/home-diamonds-mobile.jpg";
 export const homeBaneerImageTablat =
-  "https://images.blgdlab.com/Homepage/compressimg/home-diamonds-tablet.jpg";
+  "https://blgdlab.com/assets/Homepage/compressimg/home-diamonds-tablet.jpg";
 
 export const homeReactorImage =
-  "https://images.blgdlab.com/Homepage/compressimg/reactordes.png";
+  "https://blgdlab.com/assets/Homepage/compressimg/reactordes.png";
 export const homeReactorImageMobile =
-  "https://images.blgdlab.com/Homepage/compressimg/reactormobil-compressed.jpg";
+  "https://blgdlab.com/assets/Homepage/compressimg/reactormobil-compressed.jpg";
 
 export const homeRndlabImage =
-  "https://images.blgdlab.com/Homepage/compressimg/r&d-labs.png";
+  "https://blgdlab.com/assets/Homepage/compressimg/r&d-labs.png";
 export const homeRndlabImageMobile =
-  "https://images.blgdlab.com/Homepage/r%26d-labs-mobile.png";
+  "https://blgdlab.com/assets/Homepage/r%26d-labs-mobile.png";
 export const homeRndlabImageTablet =
-  "https://images.blgdlab.com/Homepage/bulidingtablet.png";
+  "https://blgdlab.com/assets/Homepage/bulidingtablet.png";
 
 export const homepolishingImage =
-  "https://images.blgdlab.com/Homepage/compressimg/polished400.jpg";
+  "https://blgdlab.com/assets/Homepage/compressimg/polished400.jpg";
 export const homepolishingImageMobile =
-  "https://images.blgdlab.com/Homepage/compressimg/polishing.png";
+  "https://blgdlab.com/assets/Homepage/compressimg/polishing.png";
 
 export const homeTypeIIImage =
-  "https://images.blgdlab.com/Homepage/compressimg/type-iia-diamonds.jpg";
+  "https://blgdlab.com/assets/Homepage/compressimg/type-iia-diamonds.jpg";
 export const homeTypeIIImageMobile =
-  "https://images.blgdlab.com/Homepage/type-iia-diamonds-mobile1.png";
+  "https://blgdlab.com/assets/Homepage/type-iia-diamonds-mobile1.png";
 
 export const homePopupImage =
-  "https://images.blgdlab.com/Homepage/homebannerpopup.jpeg";
+  "https://blgdlab.com/assets/Homepage/homebannerpopup.jpeg";
 
-export const Emailbook = "https://images.blgdlab.com/Homepage/email.svg";
+export const Emailbook = "https://blgdlab.com/assets/Homepage/email.svg";
 
 // ---------------------------------------------ABOUT--------------------------------------------
 
 export const aboutMainBanner =
-  "https://images.blgdlab.com/aboutpage/about-diamond.jpg";
+  "https://blgdlab.com/assets/aboutpage/about-diamond.jpg";
 export const aboutMainMobile =
-  "https://images.blgdlab.com/aboutpage/about-diamond-mobile.jpg";
+  "https://blgdlab.com/assets/aboutpage/about-diamond-mobile.jpg";
 export const aboutMainTablet =
-  "https://images.blgdlab.com/aboutpage/about-diamond-teblet.jpg";
+  "https://blgdlab.com/assets/aboutpage/about-diamond-teblet.jpg";
 export const aboutMainLeptop =
-  "https://images.blgdlab.com/aboutpage/about-diamond-laptop.jpg";
+  "https://blgdlab.com/assets/aboutpage/about-diamond-laptop.jpg";
 
 export const aboutbulding =
-  "https://images.blgdlab.com/aboutpage/Compressimg/buildingcompressed.jpg";
+  "https://blgdlab.com/assets/aboutpage/Compressimg/buildingcompressed.jpg";
 
 export const aboutringVision =
-  "https://images.blgdlab.com/aboutpage/Compressimg/about-ring-compressed1.jpg";
+  "https://blgdlab.com/assets/aboutpage/Compressimg/about-ring-compressed1.jpg";
 export const aboutringVisionMobile =
-  "https://images.blgdlab.com/aboutpage/Compressimg/about-ring-mobile1-compressed.jpg";
+  "https://blgdlab.com/assets/aboutpage/Compressimg/about-ring-mobile1-compressed.jpg";
 
 export const imactImg =
-  "https://images.blgdlab.com/aboutpage/Compressimg/trees.jpg";
+  "https://blgdlab.com/assets/aboutpage/Compressimg/trees.jpg";
 export const imactImgMobile =
-  "https://images.blgdlab.com/aboutpage/treemobile.png";
+  "https://blgdlab.com/assets/aboutpage/treemobile.png";
 
-export const Aboutpurity = "https://images.blgdlab.com/aboutpage/purity.png";
+export const Aboutpurity = "https://blgdlab.com/assets/aboutpage/purity.png";
 export const Aboutquality1 =
-  "https://images.blgdlab.com/aboutpage/quality1.png";
-export const Aboutpromise = "https://images.blgdlab.com/aboutpage/promise.png";
-export const Aboutintent = "https://images.blgdlab.com/aboutpage/intent.png";
+  "https://blgdlab.com/assets/aboutpage/quality1.png";
+export const Aboutpromise = "https://blgdlab.com/assets/aboutpage/promise.png";
+export const Aboutintent = "https://blgdlab.com/assets/aboutpage/intent.png";
 
 export const OurteamMan =
-  "https://images.blgdlab.com/aboutpage/Compressimg/manabout.jpg";
+  "https://blgdlab.com/assets/aboutpage/Compressimg/manabout.jpg";
 export const OurteamGlassMan =
-  "https://images.blgdlab.com/aboutpage/Compressimg/glass.jpg";
+  "https://blgdlab.com/assets/aboutpage/Compressimg/glass.jpg";
 export const OurteamWoman =
-  "https://images.blgdlab.com/aboutpage/woman-mobile.png";
+  "https://blgdlab.com/assets/aboutpage/woman-mobile.png";
 
 // ---------------------------------------------revolutionary--------------------------------------------
 
 export const RevolutionaryMainBanner =
-  "https://images.blgdlab.com/revolutionary/Compressimg/revolutionary-archetype-compressed.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/revolutionary-archetype-compressed.jpg";
 export const RevolutionaryMainBannerMobile =
-  "https://images.blgdlab.com/revolutionary/Compressimg/revolutionary-archetype-mobile-compressed.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/revolutionary-archetype-mobile-compressed.jpg";
 
 export const NoWater =
-  "https://images.blgdlab.com/revolutionary/Compressimg/water.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/water.jpg";
 export const NoWaterMobile =
-  "https://images.blgdlab.com/revolutionary/no-water-wasted-mobile.png";
+  "https://blgdlab.com/assets/revolutionary/no-water-wasted-mobile.png";
 
 export const NonPolluting =
-  "https://images.blgdlab.com/revolutionary/Compressimg/pollution.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/pollution.jpg";
 export const NonPollutingMobile =
-  "https://images.blgdlab.com/revolutionary/non-polluting-energy-mobile.png";
+  "https://blgdlab.com/assets/revolutionary/non-polluting-energy-mobile.png";
 
 export const NoEarth =
-  "https://images.blgdlab.com/revolutionary/Compressimg/earth.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/earth.jpg";
 export const NoEarthMobile =
-  "https://images.blgdlab.com/revolutionary/no-earth-uprooted-mobile.png";
+  "https://blgdlab.com/assets/revolutionary/no-earth-uprooted-mobile.png";
 
 export const NonToxic =
-  "https://images.blgdlab.com/revolutionary/non-toxic-air.png";
+  "https://blgdlab.com/assets/revolutionary/non-toxic-air.png";
 export const NonToxicMobile =
-  "https://images.blgdlab.com/revolutionary/non-toxic-air-mobile.png";
+  "https://blgdlab.com/assets/revolutionary/non-toxic-air-mobile.png";
 
 export const NonConflict =
-  "https://images.blgdlab.com/revolutionary/Compressimg/non-conflict-compressed.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/non-conflict-compressed.jpg";
 export const NonConflictMobile =
-  "https://images.blgdlab.com/revolutionary/non-conflict-mobile.png";
+  "https://blgdlab.com/assets/revolutionary/non-conflict-mobile.png";
 
 export const NonDestructive =
-  "https://images.blgdlab.com/revolutionary/Compressimg/non-destructive-production-compressed.jpg";
+  "https://blgdlab.com/assets/revolutionary/Compressimg/non-destructive-production-compressed.jpg";
 export const NonDestructiveMobile =
-  "https://images.blgdlab.com/revolutionary/non-destructive-production-mobile.png";
+  "https://blgdlab.com/assets/revolutionary/non-destructive-production-mobile.png";
 
 export const AboutInfrastructure =
-  "https://images.blgdlab.com/revolutionary/lab-grown-diamond-infrastructure.png";
+  "https://blgdlab.com/assets/revolutionary/lab-grown-diamond-infrastructure.png";
 export const Benefitsoflab =
-  "https://images.blgdlab.com/revolutionary/benefits-of-lab1.jpg";
+  "https://blgdlab.com/assets/revolutionary/benefits-of-lab1.jpg";
 
 // ---------------------------------------------Product--------------------------------------------
 
 export const ProductMainBanner =
-  "https://images.blgdlab.com/Productpage/Compressimg/productFirstImg1-compressed.jpg";
+  "https://blgdlab.com/assets/Productpage/Compressimg/productFirstImg1-compressed.jpg";
 export const ProductMainBannermobile =
-  "https://images.blgdlab.com/Productpage/productMobileViewFirstImage1.png";
+  "https://blgdlab.com/assets/Productpage/productMobileViewFirstImage1.png";
 
 export const ProductDaimond =
-  "https://images.blgdlab.com/Productpage/Compressimg/diamondnew-compressed.jpg";
+  "https://blgdlab.com/assets/Productpage/Compressimg/diamondnew-compressed.jpg";
 export const ProductDaimondMobile =
-  "https://images.blgdlab.com/Productpage/mobile-diamonds.png";
+  "https://blgdlab.com/assets/Productpage/mobile-diamonds.png";
 export const ProductDaimondTablet =
-  "https://images.blgdlab.com/Productpage/Compressimg/diamondtablet-compressed.jpg";
+  "https://blgdlab.com/assets/Productpage/Compressimg/diamondtablet-compressed.jpg";
 
 export const ProductRoughLab =
-  "https://images.blgdlab.com/Productpage/Compressimg/roughLab-compressed.jpg";
+  "https://blgdlab.com/assets/Productpage/Compressimg/roughLab-compressed.jpg";
 export const ProductPolisedLab =
-  "https://images.blgdlab.com/Productpage/Compressimg/polishedLab.jpg";
+  "https://blgdlab.com/assets/Productpage/Compressimg/polishedLab.jpg";
 export const ProductTypeTwo =
-  "https://images.blgdlab.com/Productpage/Compressimg/iiaDiamonds.jpg";
+  "https://blgdlab.com/assets/Productpage/Compressimg/iiaDiamonds.jpg";
 
-export const Productarrow = "https://images.blgdlab.com/Productpage/arrow.png";
+export const Productarrow = "https://blgdlab.com/assets/Productpage/arrow.png";
 
-export const Productblack = "https://images.blgdlab.com/Productpage/black.png";
+export const Productblack = "https://blgdlab.com/assets/Productpage/black.png";
 export const ProductblackMobile =
-  "https://images.blgdlab.com/Productpage/mobileblack.png";
+  "https://blgdlab.com/assets/Productpage/mobileblack.png";
 
 // ---------------------------------------------Director--------------------------------------------
 
 export const MainDirector =
-  "https://images.blgdlab.com/Director/compressimg/directorsmob-compressed.jpg";
+  "https://blgdlab.com/assets/Director/compressimg/directorsmob-compressed.jpg";
 export const MainDirectorMobile =
-  "https://images.blgdlab.com/Director/directorsmob.png";
+  "https://blgdlab.com/assets/Director/directorsmob.png";
 
 export const dairectordaimond =
-  "https://images.blgdlab.com/Director/directorDiamond.png";
+  "https://blgdlab.com/assets/Director/directorDiamond.png";
 export const dairectordaimondmobile =
-  "https://images.blgdlab.com/Director/Dmobile.svg";
+  "https://blgdlab.com/assets/Director/Dmobile.svg";
 
 export const dairectorRectangal =
-  "https://images.blgdlab.com/Director/director-rectangle.png";
+  "https://blgdlab.com/assets/Director/director-rectangle.png";
 
 export const dairectorLastImg =
-  "https://images.blgdlab.com/Director/compressimg/director-lastimg-compressed.jpg";
+  "https://blgdlab.com/assets/Director/compressimg/director-lastimg-compressed.jpg";
 export const dairectorLastImgMobile =
-  "https://images.blgdlab.com/Director/compressimg/director-lastimgmobile-compressed.jpg";
+  "https://blgdlab.com/assets/Director/compressimg/director-lastimgmobile-compressed.jpg";
 export const dairectorLastImgSmallMobile =
-  "https://images.blgdlab.com/Director/directorSmallmobile.png";
+  "https://blgdlab.com/assets/Director/directorSmallmobile.png";
 
 // ---------------------------------------------traders--------------------------------------------
 
 export const TradersMainBanner =
-  "https://images.blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg";
+  "https://blgdlab.com/assets/Traders/compressimg/trader-ring-compressed.jpg";
 export const TradersMainBannerMobiles =
-  "https://images.blgdlab.com/Traders/tradermobile.png";
+  "https://blgdlab.com/assets/Traders/tradermobile.png";
 export const TradersMainBannerTablat =
-  "https://images.blgdlab.com/Traders/tradertable.png";
+  "https://blgdlab.com/assets/Traders/tradertable.png";
 
 export const InventorySize =
-  "https://images.blgdlab.com/Traders/InventorySize.png";
+  "https://blgdlab.com/assets/Traders/InventorySize.png";
 export const InventoryStones =
-  "https://images.blgdlab.com/Traders/InventoryStones.png";
+  "https://blgdlab.com/assets/Traders/InventoryStones.png";
 export const ExportCountries =
-  "https://images.blgdlab.com/Traders/ExportCountries.png";
+  "https://blgdlab.com/assets/Traders/ExportCountries.png";
 
 export const TradersContactnowBanner =
-  "https://images.blgdlab.com/Traders/compressimg/TradersContactnowBanner.jpg";
+  "https://blgdlab.com/assets/Traders/compressimg/TradersContactnowBanner.jpg";
 export const TradersContactnowBannermobile =
-  "https://images.blgdlab.com/Traders/tradersContactnowBannermobile.png";
+  "https://blgdlab.com/assets/Traders/tradersContactnowBannermobile.png";
 
 // ---------------------------------------------Jewelers--------------------------------------------
 export const JewelersMainBanner =
-  "https://images.blgdlab.com/jewelers/compressimg/jewelers-first-compressed.jpg";
+  "https://blgdlab.com/assets/jewelers/compressimg/jewelers-first-compressed.jpg";
 export const JewelersMainBannerMobile =
-  "https://images.blgdlab.com/jewelers/jewelersmobile.png";
+  "https://blgdlab.com/assets/jewelers/jewelersmobile.png";
 export const JewelersMainBannerTablet =
-  "https://images.blgdlab.com/jewelers/jewelerslastablat.png";
+  "https://blgdlab.com/assets/jewelers/jewelerslastablat.png";
 
 export const JewelersCostEffective =
-  "https://images.blgdlab.com/jewelers/CostEffective.png";
+  "https://blgdlab.com/assets/jewelers/CostEffective.png";
 export const JewelersCustomerSupport =
-  "https://images.blgdlab.com/jewelers/CustomerSupport.png";
+  "https://blgdlab.com/assets/jewelers/CustomerSupport.png";
 export const JewelersWorldwideDelivery =
-  "https://images.blgdlab.com/jewelers/WorldwideDelivery.png";
+  "https://blgdlab.com/assets/jewelers/WorldwideDelivery.png";
 export const JewelersUnmatchedQuality =
-  "https://images.blgdlab.com/jewelers/UnmatchedQuality.png";
+  "https://blgdlab.com/assets/jewelers/UnmatchedQuality.png";
 
 export const JewelersContactnowBanner =
-  "https://images.blgdlab.com/jewelers/JewelersContactnowBanner.png";
+  "https://blgdlab.com/assets/jewelers/JewelersContactnowBanner.png";
 
 // ---------------------------------------------Contact us--------------------------------------------
 
-export const SuratImg = "https://images.blgdlab.com/Contactus/SURAT_NEW.svg";
+export const SuratImg = "https://blgdlab.com/assets/Contactus/SURAT_NEW.svg";
 export const MumbaiImg =
-  "https://images.blgdlab.com/Contactus/MUMBAI_101025.svg";
+  "https://blgdlab.com/assets/Contactus/MUMBAI_101025.svg";
 export const HongkongImg =
-  "https://images.blgdlab.com/Contactus/HONGKONG_NEW.svg";
+  "https://blgdlab.com/assets/Contactus/HONGKONG_NEW.svg";
 export const NewYorkImg =
-  "https://images.blgdlab.com/Contactus/NEWYORK_NEW.svg";
-// export const EuropeImg='https://images.blgdlab.com/Contactus/AntwerpDestop.svg'
-// export const DubaiImg='https://images.blgdlab.com/Contactus/DubaiDes.svg'
+  "https://blgdlab.com/assets/Contactus/NEWYORK_NEW.svg";
+// export const EuropeImg='https://blgdlab.com/assets/Contactus/AntwerpDestop.svg'
+// export const DubaiImg='https://blgdlab.com/assets/Contactus/DubaiDes.svg'
 
 export const mobileSuratImg =
-  "https://images.blgdlab.com/Contactus/SURATM_NEW.svg";
+  "https://blgdlab.com/assets/Contactus/SURATM_NEW.svg";
 export const mobileMumbaiImg =
-  "https://images.blgdlab.com/Contactus/MUMBAIM_101025.svg";
+  "https://blgdlab.com/assets/Contactus/MUMBAIM_101025.svg";
 export const mobileHongkongImg =
-  "https://images.blgdlab.com/Contactus/HONGKONGM_NEW.svg";
+  "https://blgdlab.com/assets/Contactus/HONGKONGM_NEW.svg";
 export const mobileNewYorkImg =
-  "https://images.blgdlab.com/Contactus/NEWYORKM_NEW.svg";
-// export const mobileEuropeImg='https://images.blgdlab.com/Contactus/antwerpmo.svg'
-// export const mobileDubaiImg='https://images.blgdlab.com/Contactus/dubobile.svgaim'
+  "https://blgdlab.com/assets/Contactus/NEWYORKM_NEW.svg";
+// export const mobileEuropeImg='https://blgdlab.com/assets/Contactus/antwerpmo.svg'
+// export const mobileDubaiImg='https://blgdlab.com/assets/Contactus/dubobile.svgaim'
 
 // ---------------------------------------------Bookappoinment--------------------------------------------
 export const Datepicker =
-  "https://images.blgdlab.com/Bookappoinment/datepicker.svg";
+  "https://blgdlab.com/assets/Bookappoinment/datepicker.svg";
 export const Timepicker =
-  "https://images.blgdlab.com/Bookappoinment/timepicker.svg";
+  "https://blgdlab.com/assets/Bookappoinment/timepicker.svg";
 export const Bookpopupvirtual =
-  "https://images.blgdlab.com/Bookappoinment/Remote+team-rafiki.svg";
+  "https://blgdlab.com/assets/Bookappoinment/Remote+team-rafiki.svg";
 export const BookpopupOffice =
-  "https://images.blgdlab.com/Bookappoinment/Meeting-amico.svg";
-export const ClosePopup = "https://images.blgdlab.com/Bookappoinment/Close.svg";
+  "https://blgdlab.com/assets/Bookappoinment/Meeting-amico.svg";
+export const ClosePopup = "https://blgdlab.com/assets/Bookappoinment/Close.svg";
 
 // ---------------------------------------------Gallary--------------------------------------------
 export const gallarymainbanner =
-  "https://images.blgdlab.com/gallary/compressimg/gallary-compressed.jpg";
+  "https://blgdlab.com/assets/gallary/compressimg/gallary-compressed.jpg";
 
 // ---------------------------------------------Location Page USA--------------------------------------------
 export const mainimgUsa =
-  "https://images.blgdlab.com/LocationUSA/LocationUSA.png";
+  "https://blgdlab.com/assets/LocationUSA/LocationUSA.png";
 export const mainimgUsaTablet =
-  "https://images.blgdlab.com/LocationUSA/USAMainTablet.png";
+  "https://blgdlab.com/assets/LocationUSA/USAMainTablet.png";
 export const mainimgUsaMobile =
-  "https://images.blgdlab.com/LocationUSA/Usamailmobile.png";
+  "https://blgdlab.com/assets/LocationUSA/Usamailmobile.png";
 
 export const maploactionUsa =
-  "https://images.blgdlab.com/LocationUSA/NEWYORK_FOOTER.svg";
+  "https://blgdlab.com/assets/LocationUSA/NEWYORK_FOOTER.svg";
 export const officeglobe =
-  "https://images.blgdlab.com/LocationUSA/UsaOffice.png";
+  "https://blgdlab.com/assets/LocationUSA/UsaOffice.png";
 export const phone_line =
-  "https://images.blgdlab.com/LocationUSA/phone-line.svg";
-export const mail_line = "https://images.blgdlab.com/LocationUSA/mail-line.svg";
+  "https://blgdlab.com/assets/LocationUSA/phone-line.svg";
+export const mail_line = "https://blgdlab.com/assets/LocationUSA/mail-line.svg";
 export const contactimg =
-  "https://images.blgdlab.com/LocationUSA/contactusback.png";
-export const downarrow = "https://images.blgdlab.com/LocationUSA/DownArrow.svg";
+  "https://blgdlab.com/assets/LocationUSA/contactusback.png";
+export const downarrow = "https://blgdlab.com/assets/LocationUSA/DownArrow.svg";
 export const blackarrow =
-  "https://images.blgdlab.com/LocationUSA/blackdown.svg";
+  "https://blgdlab.com/assets/LocationUSA/blackdown.svg";
 
 // ---------------------------------------------Location Page SURAT--------------------------------------------
 
 export const suratmain =
-  "https://images.blgdlab.com/LocationSURAT/suratmainbanner.png";
+  "https://blgdlab.com/assets/LocationSURAT/suratmainbanner.png";
 export const suratmainTablate =
-  "https://images.blgdlab.com/LocationSURAT/suratmainbannerTablet.png";
+  "https://blgdlab.com/assets/LocationSURAT/suratmainbannerTablet.png";
 export const suratmainMobile =
-  "https://images.blgdlab.com/LocationSURAT/suratmainbannerMobile.png";
+  "https://blgdlab.com/assets/LocationSURAT/suratmainbannerMobile.png";
 export const SuratMap =
-  "https://images.blgdlab.com/LocationSURAT/SURAT_FOOTER.svg";
+  "https://blgdlab.com/assets/LocationSURAT/SURAT_FOOTER.svg";
 export const SuratOffice =
-  "https://images.blgdlab.com/LocationSURAT/SuratOffice.png";
+  "https://blgdlab.com/assets/LocationSURAT/SuratOffice.png";
 
 // ---------------------------------------------Location Page Hong Kong--------------------------------------------
 
 export const hongkongmain =
-  "https://images.blgdlab.com/LocationHongKong/hongkongmain.png";
+  "https://blgdlab.com/assets/LocationHongKong/hongkongmain.png";
 export const hongkongtablet =
-  "https://images.blgdlab.com/LocationHongKong/hongkongtablet.png";
+  "https://blgdlab.com/assets/LocationHongKong/hongkongtablet.png";
 export const hongkongmobile =
-  "https://images.blgdlab.com/LocationHongKong/hongkongmobile.png";
+  "https://blgdlab.com/assets/LocationHongKong/hongkongmobile.png";
 export const hongkongoffice =
-  "https://images.blgdlab.com/LocationHongKong/hongkongofficesec.png";
+  "https://blgdlab.com/assets/LocationHongKong/hongkongofficesec.png";
 export const hongkongmap =
-  "https://images.blgdlab.com/LocationHongKong/HONGKONG_FOOTER.svg";
+  "https://blgdlab.com/assets/LocationHongKong/HONGKONG_FOOTER.svg";
 
 // ---------------------------------------------Location Page Hong Kong--------------------------------------------
 
 export const dubaimain =
-  "https://images.blgdlab.com/LocationDubai/dubaimain.png";
+  "https://blgdlab.com/assets/LocationDubai/dubaimain.png";
 export const dubaitablet =
-  "https://images.blgdlab.com/LocationDubai/dubaitablet.png";
+  "https://blgdlab.com/assets/LocationDubai/dubaitablet.png";
 export const dubaimobile =
-  "https://images.blgdlab.com/LocationDubai/dubaimobile.png";
+  "https://blgdlab.com/assets/LocationDubai/dubaimobile.png";
 export const dubaioffice =
-  "https://images.blgdlab.com/LocationDubai/dubaiofficeImg.png";
-export const dubaimap = "https://images.blgdlab.com/LocationDubai/dubaimap.png";
+  "https://blgdlab.com/assets/LocationDubai/dubaiofficeImg.png";
+export const dubaimap = "https://blgdlab.com/assets/LocationDubai/dubaimap.png";
 
 // ---------------------------------------------Location Page Mumbai--------------------------------------------
 export const Mumbaimain =
-  "https://images.blgdlab.com/LocationMumbai/mainMumbai.png";
+  "https://blgdlab.com/assets/LocationMumbai/mainMumbai.png";
 export const Mumbaitablet =
-  "https://images.blgdlab.com/LocationMumbai/Mumbaitablet.png";
+  "https://blgdlab.com/assets/LocationMumbai/Mumbaitablet.png";
 export const Mumbaimobile =
-  "https://images.blgdlab.com/LocationMumbai/MumbaiMobile.png";
+  "https://blgdlab.com/assets/LocationMumbai/MumbaiMobile.png";
 export const Mumbaioffice =
-  "https://images.blgdlab.com/LocationMumbai/MumbaiofficesImg.png";
+  "https://blgdlab.com/assets/LocationMumbai/MumbaiofficesImg.png";
 export const Mumbaimap =
-  "https://images.blgdlab.com/LocationMumbai/MUMBAI_FOOTER.svg";
+  "https://blgdlab.com/assets/LocationMumbai/MUMBAI_FOOTER.svg";
 
 // ---------------------------------------------Location Page Antwerp--------------------------------------------
 export const Antwerpmain =
-  "https://images.blgdlab.com/LocationAntwerp/mainAnwerp.png";
+  "https://blgdlab.com/assets/LocationAntwerp/mainAnwerp.png";
 export const Antwerptablet =
-  "https://images.blgdlab.com/LocationAntwerp/Antwerptablet.png";
+  "https://blgdlab.com/assets/LocationAntwerp/Antwerptablet.png";
 export const Antwerpmobile =
-  "https://images.blgdlab.com/LocationAntwerp/AntwerpMobile.png";
+  "https://blgdlab.com/assets/LocationAntwerp/AntwerpMobile.png";
 export const Antwerpoffice =
-  "https://images.blgdlab.com/LocationAntwerp/AntwerpofficeImg.png";
+  "https://blgdlab.com/assets/LocationAntwerp/AntwerpofficeImg.png";
 export const Antwerpmap =
-  "https://images.blgdlab.com/LocationAntwerp/Antwerpmap.png";
+  "https://blgdlab.com/assets/LocationAntwerp/Antwerpmap.png";
 
 // ---------------------------------------------CVD Page Antwerp--------------------------------------------
 
 export const Cvdherodesktop =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/cvd-heroimagedesktop.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/cvd-heroimagedesktop.jpg";
 export const CvdheroMobile =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/cvd-heromobile.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/cvd-heromobile.jpg";
 export const whatwedodes =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/whatwedo.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/whatwedo.jpg";
 export const processstap1 =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/processstap1updated.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/processstap1updated.jpg";
 export const processstap2 =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/processstap2updated.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/processstap2updated.jpg";
 export const processstap3 =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/processstap3updated.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/processstap3updated.jpg";
 export const processstap4 =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/processstap4updated.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/processstap4updated.jpg";
 export const processstap5 =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/processstap5updated.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/processstap5updated.jpg";
 export const processdefinder =
-  "https://images.blgdlab.com/cvd-diamond-manufacturers/processdefinder.jpg";
+  "https://blgdlab.com/assets/cvd-diamond-manufacturers/processdefinder.jpg";
 
 // ---------------------------------------------4Cs Page --------------------------------------------
 
-export const FourCsm = "https://images.blgdlab.com/4Cs/4csMain.jpg";
-export const FourDiamondCut = "https://images.blgdlab.com/4Cs/DiamondCut.jpg";
+export const FourCsm = "https://blgdlab.com/assets/4Cs/4csMain.jpg";
+export const FourDiamondCut = "https://blgdlab.com/assets/4Cs/DiamondCut.jpg";
 export const FourDiamondColor =
-  "https://images.blgdlab.com/4Cs/DiamondColorH.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColorH.jpg";
 export const FourDiamondClarity =
-  "https://images.blgdlab.com/4Cs/DiamondClarity.png";
+  "https://blgdlab.com/assets/4Cs/DiamondClarity.png";
 export const FourDiamondCaratWeight =
-  "https://images.blgdlab.com/4Cs/DiamondCaratWeightH.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondCaratWeightH.jpg";
 export const FourDiamondCaratWeightMobile =
-  "https://images.blgdlab.com/4Cs/DiamondCaratWeightMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondCaratWeightMobile.jpg";
 export const FourDiamondColorMobile =
-  "https://images.blgdlab.com/4Cs/FourDiamondColorMobilew.png";
+  "https://blgdlab.com/assets/4Cs/FourDiamondColorMobilew.png";
 export const FourDiamondCutMobile =
-  "https://images.blgdlab.com/4Cs/DiamondCutMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondCutMobile.jpg";
 export const FourDiamondClarityMobile =
-  "https://images.blgdlab.com/4Cs/DiamondCutMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondCutMobile.jpg";
 export const the4csofdiamondsMobile =
-  "https://images.blgdlab.com/4Cs/the4csofdiamondsMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/the4csofdiamondsMobile.jpg";
 
 // ---------------------------------------------Daimond Cut Page --------------------------------------------
 export const DaimndCutBanner =
-  "https://images.blgdlab.com/Diamond+Cut/DiamondCutBanner.jpg";
+  "https://blgdlab.com/assets/Diamond+Cut/DiamondCutBanner.jpg";
 export const DaimondCutImg =
-  "https://images.blgdlab.com/Diamond+Cut/DiamondCutFull.jpg";
+  "https://blgdlab.com/assets/Diamond+Cut/DiamondCutFull.jpg";
 
-export const DaimondRound = "https://images.blgdlab.com/Diamond+Cut/Round.png";
-export const DaimondOval = "https://images.blgdlab.com/Diamond+Cut/Oval.png";
+export const DaimondRound = "https://blgdlab.com/assets/Diamond+Cut/Round.png";
+export const DaimondOval = "https://blgdlab.com/assets/Diamond+Cut/Oval.png";
 
 export const DaimondCushion =
-  "https://images.blgdlab.com/Diamond+Cut/Cushion.png";
-export const DaimondPear = "https://images.blgdlab.com/Diamond+Cut/Pear.png";
+  "https://blgdlab.com/assets/Diamond+Cut/Cushion.png";
+export const DaimondPear = "https://blgdlab.com/assets/Diamond+Cut/Pear.png";
 export const DaimondPrincess =
-  "https://images.blgdlab.com/Diamond+Cut/Princess.png";
+  "https://blgdlab.com/assets/Diamond+Cut/Princess.png";
 export const DaimondEmerald =
-  "https://images.blgdlab.com/Diamond+Cut/Emarald.png";
+  "https://blgdlab.com/assets/Diamond+Cut/Emarald.png";
 export const DaimondMarquise =
-  "https://images.blgdlab.com/Diamond+Cut/Marquise.png";
+  "https://blgdlab.com/assets/Diamond+Cut/Marquise.png";
 export const DaimondAsscher =
-  "https://images.blgdlab.com/Diamond+Cut/Asscher.png";
+  "https://blgdlab.com/assets/Diamond+Cut/Asscher.png";
 export const DaimondRadiant =
-  "https://images.blgdlab.com/Diamond+Cut/Radiant.png";
-export const DaimondHeart = "https://images.blgdlab.com/Diamond+Cut/Heart.png";
+  "https://blgdlab.com/assets/Diamond+Cut/Radiant.png";
+export const DaimondHeart = "https://blgdlab.com/assets/Diamond+Cut/Heart.png";
 export const DaimondCutHero =
-  "https://images.blgdlab.com/4Cs/Daimond-Cut/diamondCutHero.jpg";
+  "https://blgdlab.com/assets/4Cs/Daimond-Cut/diamondCutHero.jpg";
 
 // ---------------------------------------------Daimond Color Page --------------------------------------------
 export const DaimndColorBanner =
-  "https://images.blgdlab.com/4Cs/DiamondColor/DiamondColorHero.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/DiamondColorHero.jpg";
 export const DaimndColorBannerMobile =
-  "https://images.blgdlab.com/4Cs/DiamondColor/DiamondColorHeroMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/DiamondColorHeroMobile.jpg";
 
 export const DaimndColorless =
-  "https://images.blgdlab.com/4Cs/DiamondColor/Colorless.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/Colorless.jpg";
 export const DaimndNearColorless =
-  "https://images.blgdlab.com/4Cs/DiamondColor/NearColorless.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/NearColorless.jpg";
 export const DaimndCloseToNotisable =
-  "https://images.blgdlab.com/4Cs/DiamondColor/CloseToNotisable.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/CloseToNotisable.jpg";
 export const DaimndNoticeableColor =
-  "https://images.blgdlab.com/4Cs/DiamondColor/NoticeableColor.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/NoticeableColor.jpg";
 export const DaimndFullyNoticeableColor =
-  "https://images.blgdlab.com/4Cs/DiamondColor/FullyNoticeableColor.jpg";
+  "https://blgdlab.com/assets/4Cs/DiamondColor/FullyNoticeableColor.jpg";
 
 // ---------------------------------------------Daimond Clarity Page --------------------------------------------
 export const DaimndClarityBanner =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/DaimondClarityHero.jpg";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/DaimondClarityHero.jpg";
 export const DaimndClarityBannerMobile =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/DaimondClarityMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/DaimondClarityMobile.jpg";
 
 export const DaimndClarityFlawless =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/Flawless.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/Flawless.png";
 export const DaimndClarityInternallyFlawless =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/InternallyFlawless.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/InternallyFlawless.png";
 export const DaimndClarityVeryVerySlightlyIncluded =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/VeryVerySlightlyIncluded2.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/VeryVerySlightlyIncluded2.png";
 export const DaimndClarityVerySlightlyIncluded =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/VerySlightlyIncluded.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/VerySlightlyIncluded.png";
 export const DaimndClaritySlightlyIncludedone =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/SlightlyIncludedone.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/SlightlyIncludedone.png";
 export const DaimndClaritySlightlyIncludedtwo =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/SlightlyIncludedtwo.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/SlightlyIncludedtwo.png";
 export const DaimndClarityIncludedone =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/Includedone.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/Includedone.png";
 export const DaimndClarityIncludedtwo =
-  "https://images.blgdlab.com/4Cs/daimond-clarity/Includedtwo.png";
+  "https://blgdlab.com/assets/4Cs/daimond-clarity/Includedtwo.png";
 
 // ---------------------------------------------Diamond Carat Weight --------------------------------------------
 export const CaratWeightBannerDesktop =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/CaratWeightbannerDesktop.jpg";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/CaratWeightbannerDesktop.jpg";
 export const CaratWeightBannerMobile =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/CaratWeightbannerMobile.jpg";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/CaratWeightbannerMobile.jpg";
 
 export const DaimondSizeOne =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/firstCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/firstCt.png";
 export const DaimondSizeTwo =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/secondCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/secondCt.png";
 export const DaimondSizeThree =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/ThirdCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/ThirdCt.png";
 export const DaimondSizeFour =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/FourthCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/FourthCt.png";
 export const DaimondSizeFive =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/FifthCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/FifthCt.png";
 export const DaimondSizeSix =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/SixthCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/SixthCt.png";
 export const DaimondSizeSeven =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/EighthCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/EighthCt.png";
 export const DaimondSizeEight =
-  "https://images.blgdlab.com/4Cs/CaratWeightbannerDesktop/NiniethCt.png";
+  "https://blgdlab.com/assets/4Cs/CaratWeightbannerDesktop/NiniethCt.png";
 
 // ---------------------------------------------Diamond Shapes --------------------------------------------
 
 export const daimondShapeHero =
-  "https://images.blgdlab.com/diamondShapes/diamondShapeHero.jpg";
+  "https://blgdlab.com/assets/diamondShapes/diamondShapeHero.jpg";
 export const daimondShapeMobile =
-  "https://images.blgdlab.com/diamondShapes/shapeheroMobile.jpg";
+  "https://blgdlab.com/assets/diamondShapes/shapeheroMobile.jpg";
 export const daimondShapeRound =
-  "https://images.blgdlab.com/diamondShapes/RoundShape.jpg";
+  "https://blgdlab.com/assets/diamondShapes/RoundShape.jpg";
 export const daimondShapeRoundG =
-  "https://images.blgdlab.com/diamondShapes/RoundShapeG.jpg";
+  "https://blgdlab.com/assets/diamondShapes/RoundShapeG.jpg";
 
 export const daimondRound =
-  "https://images.blgdlab.com/diamondShapes/MainRound.png";
+  "https://blgdlab.com/assets/diamondShapes/MainRound.png";
 export const OvalShape =
-  "https://images.blgdlab.com/diamondShapes/OvalShape.png";
+  "https://blgdlab.com/assets/diamondShapes/OvalShape.png";
 export const RadiantShape =
-  "https://images.blgdlab.com/diamondShapes/RadiantShape.png";
+  "https://blgdlab.com/assets/diamondShapes/RadiantShape.png";
 export const EmeraldShape =
-  "https://images.blgdlab.com/diamondShapes/EmeraldShape.png";
+  "https://blgdlab.com/assets/diamondShapes/EmeraldShape.png";
 export const PearShape =
-  "https://images.blgdlab.com/diamondShapes/PearShape.png";
+  "https://blgdlab.com/assets/diamondShapes/PearShape.png";
 export const CushionShape =
-  "https://images.blgdlab.com/diamondShapes/CushionShape.png";
+  "https://blgdlab.com/assets/diamondShapes/CushionShape.png";
 export const PrincessShape =
-  "https://images.blgdlab.com/diamondShapes/PrincessShape.png";
+  "https://blgdlab.com/assets/diamondShapes/PrincessShape.png";
 export const AsscherShape =
-  "https://images.blgdlab.com/diamondShapes/AsscherShape.png";
+  "https://blgdlab.com/assets/diamondShapes/AsscherShape.png";
 export const MarquiseShape =
-  "https://images.blgdlab.com/diamondShapes/MarquiseShape.png";
+  "https://blgdlab.com/assets/diamondShapes/MarquiseShape.png";
 export const HeartShape =
-  "https://images.blgdlab.com/diamondShapes/HeartShape.png";
+  "https://blgdlab.com/assets/diamondShapes/HeartShape.png";
 
 // ---------------------------------------------Flages --------------------------------------------
-export const FlagIndia = "https://images.blgdlab.com/Flags/IN.png";
-export const FlagNew_York = "https://images.blgdlab.com/Flags/US.png";
-export const FlagHong_Kong = "https://images.blgdlab.com/Flags/HK.png";
-export const FlagDubai = "https://images.blgdlab.com/Flags/AE.png";
-export const FlagAntwerp = "https://images.blgdlab.com/Flags/BLCo.png";
+export const FlagIndia = "https://blgdlab.com/assets/Flags/IN.png";
+export const FlagNew_York = "https://blgdlab.com/assets/Flags/US.png";
+export const FlagHong_Kong = "https://blgdlab.com/assets/Flags/HK.png";
+export const FlagDubai = "https://blgdlab.com/assets/Flags/AE.png";
+export const FlagAntwerp = "https://blgdlab.com/assets/Flags/BLCo.png";

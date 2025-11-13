@@ -15,7 +15,7 @@ export const metadata = {
       "Meet Bhanderi Lab Grown Diamonds' visionary board of directors - driving success with expertise and dedication in the world of lab grown diamonds.",
     images: [
       {
-        url: "https://images.blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
+        url: "https://blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
       },
     ],
   },
@@ -28,7 +28,7 @@ export const metadata = {
       "Meet Bhanderi Lab Grown Diamonds' visionary board of directors - driving success with expertise and dedication in the world of lab grown diamonds.",
     images: [
       {
-        url: "https://images.blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
+        url: "https://blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
       },
     ],
   },

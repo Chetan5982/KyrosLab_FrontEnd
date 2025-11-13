@@ -8,6 +8,7 @@ import homeBannerSaga from "./homeBanner/saga";
 import redirectSaga from "./redirect/saga";
 import categorySaga from "./category/saga";
 import demoSaga from "./demo/demo.saga";
+import diamondSearchSaga from "./diamondSearch/saga";
 
 export default function* rootSaga() {
   yield all([
@@ -20,5 +21,6 @@ export default function* rootSaga() {
     fork(redirectSaga),
     fork(categorySaga),
     fork(demoSaga),
+    fork(diamondSearchSaga)
   ]);
 }

@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Lab Grown Diamonds Manufacturer Dubai",
-    image: "https://images.blgdlab.com/LocationDubai/dubaiofficeImg.png",
+    image: "https://blgdlab.com/LocationDubai/dubaiofficeImg.png",
     "@id": " https://blgdlab.com/",
     url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-dubai",
     telephone: "+971 45 147 853",

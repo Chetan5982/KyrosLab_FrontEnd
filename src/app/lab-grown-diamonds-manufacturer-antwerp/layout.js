@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Lab Grown Diamonds Manufacturer Antwerp",
-    image: "https://images.blgdlab.com/LocationAntwerp/AntwerpofficeImg.png",
+    image: "https://blgdlab.com/LocationAntwerp/AntwerpofficeImg.png",
     "@id": " https://blgdlab.com/",
     url: "https://blgdlab.com/lab-grown-diamonds-manufacturer-antwerp",
     telephone: "+32 3 685 21 31",
