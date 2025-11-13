@@ -15,7 +15,7 @@ export const metadata = {
       "Bhanderi renowned global company in Type IIa LGD. Building more sustainable, ethical and accessible diamond industry. Better for Earth & Better for You.",
     images: [
       {
-        url: "https://images.blgdlab.com/aboutpage/about-diamond.jpg",
+        url: "https://blgdlab.com/aboutpage/about-diamond.jpg",
       },
     ],
   },
@@ -28,7 +28,7 @@ export const metadata = {
       "Bhanderi renowned global company in Type IIa LGD. Building more sustainable, ethical and accessible diamond industry. Better for Earth & Better for You.",
     images: [
       {
-        url: "https://images.blgdlab.com/aboutpage/about-diamond.jpg",
+        url: "https://blgdlab.com/aboutpage/about-diamond.jpg",
       },
     ],
   },

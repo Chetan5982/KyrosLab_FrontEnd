@@ -15,7 +15,7 @@ export const metadata = {
       "Explore Bhanderi's extensive collection of lab grown diamonds, expertly curated for traders & find variations of sizes, shapes and colors for any budget.",
     images: [
       {
-        url: "https://images.blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
+        url: "https://blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
       },
     ],
   },
@@ -28,7 +28,7 @@ export const metadata = {
       "Explore Bhanderi's extensive collection of lab grown diamonds, expertly curated for traders & find variations of sizes, shapes and colors for any budget.",
     images: [
       {
-        url: "https://images.blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
+        url: "https://blgdlab.com/Traders/compressimg/trader-ring-compressed.jpg",
       },
     ],
   },

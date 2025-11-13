@@ -15,7 +15,7 @@ export const metadata = {
       "Bhanderi Lab Grown Diamonds: The epitome of lab to luxury. Explore our collection of rough & polished Lab Made Diamonds for sustainable brilliance.",
     images: [
       {
-        url: "https://images.blgdlab.com/Productpage/Compressimg/daimondnew-compressed.jpg",
+        url: "https://blgdlab.com/Productpage/Compressimg/daimondnew-compressed.jpg",
         alt: "Diamond Image",
       },
     ],
@@ -29,7 +29,7 @@ export const metadata = {
       "Bhanderi Lab Grown Diamonds: The epitome of lab to luxury. Explore our collection of rough & polished Lab Made Diamonds for sustainable brilliance.",
     images: [
       {
-        url: "https://images.blgdlab.com/Productpage/Compressimg/daimondnew-compressed.jpg",
+        url: "https://blgdlab.com/Productpage/Compressimg/daimondnew-compressed.jpg",
       },
     ],
   },

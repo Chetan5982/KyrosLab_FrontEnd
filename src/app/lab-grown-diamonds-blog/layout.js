@@ -15,7 +15,7 @@ export const metadata = {
       "Stay informed with Bhanderi comprehensive diamond insights and blogs for industry trends, innovations and expert knowledge in the world of diamonds.",
     images: [
       {
-        url: "https://images.blgdlab.com/lab-grown-diamonds-glimps-into-the-future-of-industry.png",
+        url: "https://blgdlab.com/lab-grown-diamonds-glimps-into-the-future-of-industry.png",
       },
     ],
   },
@@ -28,7 +28,7 @@ export const metadata = {
       "Stay informed with Bhanderi comprehensive diamond insights and blogs for industry trends, innovations and expert knowledge in the world of diamonds.",
     images: [
       {
-        url: "https://images.blgdlab.com/lab-grown-diamonds-glimps-into-the-future-of-industry.png",
+        url: "https://blgdlab.com/lab-grown-diamonds-glimps-into-the-future-of-industry.png",
       },
     ],
   },

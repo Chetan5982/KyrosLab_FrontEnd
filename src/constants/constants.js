@@ -21,7 +21,12 @@ export const locationMumbaiUrl = "/lab-grown-diamonds-manufacturer-mumbai";
 // export const locationAntwerpUrl = "/lab-grown-diamonds-manufacturer-antwerp";
 export const FourCs = "/4-cs-lab-grown-diamonds";
 
-export const nodeUrl =
-  process.env.NODE_ENV === "development"
-    ? "http://localhost:8000/bhanderi-api"
+// export const nodeUrl =
+//   process.env.NODE_ENV === "development"
+//     ? "http://localhost:8000/bhanderi-api"
+//     : "https://blgdlab.com/bhanderi-api";
+
+export const nodeUrl=  process.env.NODE_ENV === "development"
+    ? "https://localhost:62364/api"
     : "https://blgdlab.com/bhanderi-api";
+  
