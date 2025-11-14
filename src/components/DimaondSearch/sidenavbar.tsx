@@ -63,21 +63,23 @@ import { TOGGLE_DIAMOND_SEARCH_SIDEBAR } from "@/redux/diamondSearch/dimaondSear
         const elements = ['Shape','Color'];
 
         return (
-           <div className={`${isSidebarOpen ? "w-[448px]" : "w-full"} flex flex-col gap-2 transition-all duration-700 ease-in-out`}>
+           <div className={`${isSidebarOpen ? "w-[475px]" : "w-full"} flex flex-col gap-2 transition-all duration-700 ease-in-out`}>
             {elements.map((item,index) => (
+              
             <BlankCard key={index} className="w-full" >
               <CardHeader title={item} />
-              <div className="flex flex-wrap h-40 ml-4 mb-3 gap-[5px] overflow-hidden" >
+              <div className= {`flex flex-wrap ${isSidebarOpen && "h-[144px]"}  pl-2 mb-3  overflow-hidden`} >
                 <CriteriaTemplate key={index}  isShape={true} options={shapes} parentIndex={index} />
               </div>
               {
                 isSidebarOpen  && 
                 <div className="bg-[rgb(243,221,207)] text-center m-[5px] mt-1 rounded-lg" >
-                  <button > <span>▼</span></button>
+                  <button > <span style={{textDecoration: "none"}}>▼</span></button>
                 </div>
               }
               
-            </BlankCard>    
+              </BlankCard>  
+            
             ))}
           <div>
             <button className="w-full text-center p-2 rounded " onClick={searchData} style={{backgroundColor:"rgb(2 70 56)"}} type="submit">Search</button>

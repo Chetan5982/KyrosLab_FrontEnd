@@ -10,9 +10,9 @@ export const DiamondSearch = () => {
    const dispatch = useDispatch();
    const  isSidebarOpen  = useSelector((state) => state.diamond.isDiamondSearchSidebarOpen);
   
-   useEffect(()=>{
-    console.log(isSidebarOpen);
-   },[isSidebarOpen]);
+  //  useEffect(()=>{
+  //   console.log(isSidebarOpen);
+  //  },[isSidebarOpen]);
 
 
  return <ContainerWrapper className=" gap-3">
