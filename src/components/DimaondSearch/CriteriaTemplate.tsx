@@ -22,7 +22,7 @@ const CriteriaTemplate = ({ isShape = false, options = [],parentIndex=0 }) => {
                             src={data["photoPaths"].filePaths["originalFilePath_Absolute"]+data.code+".svg"}
                             onError={(e)=>{
                               e.target.onerror = null;
-                              e.target.src = "https://localhost:62364/Images/NoImage.png";
+                              e.target.src = "https://localhost:44339/Images/NoImage.png";
                             }}
                             alt={data.value}
                             className="ChkOrRbtToggleTypeColorLessImg"

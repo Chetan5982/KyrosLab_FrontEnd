@@ -85,11 +85,10 @@ import { TOGGLE_DIAMOND_SEARCH_SIDEBAR } from "@/redux/diamondSearch/dimaondSear
 
              <BlankCard key="Carat" className="w-full" >
               <CardHeader title="Carat" />
-              <div className= {`flex flex-wrap ${isSidebarOpen && "h-[144px]"}  pl-2 mb-3  overflow-hidden`} >
-                <div className="flex">
-                  <input type="number"/>  To <input type="number"/>
+              <div className="w-full flex  ">
+                  <input type="number" className="w-full border "/> <span >To</span>  <input className="w-full border" type="number"/>
                 </div>
-                
+              <div className= {`flex flex-wrap ${isSidebarOpen && "h-[144px]"}  pl-2 mb-3  overflow-hidden`} >
                 <CriteriaTemplate  key="1"  isShape={false} options={sizeGroups} parentIndex={1} />
               </div>
               {
