@@ -9,7 +9,7 @@
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
-    width: 64px;                       /* fixed width */
+    width: 84px;                       /* fixed width */
     font-size: 12px !important;
     box-sizing: border-box;
 }

@@ -56,20 +56,41 @@ import { TOGGLE_DIAMOND_SEARCH_SIDEBAR } from "@/redux/diamondSearch/dimaondSear
               },[])
 
           const  isSidebarOpen  = useSelector((state) => state.diamond.isDiamondSearchSidebarOpen);
-              const searchData=()=>{
+
+          const searchData=()=>{
                   dispatch({ type: TOGGLE_DIAMOND_SEARCH_SIDEBAR});
-              }
+                  
+
+          }
         
-        const elements = ['Shape','Color'];
+        const elements = [{'filter':'Shape',data:shapes,'isShape':true },{'filter':'Carat',data:sizeGroups,'isShape':false }];
 
         return (
            <div className={`${isSidebarOpen ? "w-[475px]" : "w-full"} flex flex-col gap-2 transition-all duration-700 ease-in-out`}>
-            {elements.map((item,index) => (
+           
               
-            <BlankCard key={index} className="w-full" >
-              <CardHeader title={item} />
+            <BlankCard key="shape" className="w-full" >
+              <CardHeader title="Shape" />
               <div className= {`flex flex-wrap ${isSidebarOpen && "h-[144px]"}  pl-2 mb-3  overflow-hidden`} >
-                <CriteriaTemplate key={index}  isShape={true} options={shapes} parentIndex={index} />
+                <CriteriaTemplate  key="0"  isShape={true} options={shapes} parentIndex={0} />
+              </div>
+              {
+                isSidebarOpen  && 
+                <div className="bg-[rgb(243,221,207)] text-center m-[5px] mt-1 rounded-lg" >
+                  <button > <span style={{textDecoration: "none"}}>▼</span></button>
+                </div>
+              }
+              </BlankCard>  
+
+
+             <BlankCard key="Carat" className="w-full" >
+              <CardHeader title="Carat" />
+              <div className= {`flex flex-wrap ${isSidebarOpen && "h-[144px]"}  pl-2 mb-3  overflow-hidden`} >
+                <div className="flex">
+                  <input type="number"/>  To <input type="number"/>
+                </div>
+                
+                <CriteriaTemplate  key="1"  isShape={false} options={sizeGroups} parentIndex={1} />
               </div>
               {
                 isSidebarOpen  && 
@@ -79,8 +100,7 @@ import { TOGGLE_DIAMOND_SEARCH_SIDEBAR } from "@/redux/diamondSearch/dimaondSear
               }
               
               </BlankCard>  
-            
-            ))}
+         
           <div>
             <button className="w-full text-center p-2 rounded " onClick={searchData} style={{backgroundColor:"rgb(2 70 56)"}} type="submit">Search</button>
           </div>
