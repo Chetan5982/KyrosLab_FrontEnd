@@ -1,30 +1,54 @@
+/* Label styling for both round and colorless toggles */
 .ChkOrRbtToggleRoundText,
 .ChkOrRbtToggleTypeColorLessText {
     background-color: rgb(228, 228, 236);
-    margin-right: 5px;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding: 5px;
-    color: #282727;
     border-radius: 5px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
     cursor: pointer;
-    user-select: none;
-    transition: background-color .2s, box-shadow .2s;
     text-align: center;
-    overflow: hidden;
-    word-wrap: normal;
-    width: 60px;
-    font-size: 14px !important;
+    width: 84px;                       /* fixed width */
+    font-size: 12px !important;
+    box-sizing: border-box;
 }
 
+/* Image inside label */
+.ChkOrRbtToggleTypeColorLessText img,
+.ChkOrRbtToggleRoundText img {
+    width: 55px;
+    height: 30px;
+    object-fit: contain;
+    margin-bottom: 5px;
+}
+
+/* Truncate text with ellipsis */
+.ChkOrRbtToggleTypeColorLessText span,
+.ChkOrRbtToggleRoundText span {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* Checked state styling */
 .ChkOrRbtToggleTypeColorLess input[type=checkbox]:checked ~ .ChkOrRbtToggleTypeColorLessText,
 .ChkOrRbtToggleTypeColorLess input[type=radio]:checked ~ .ChkOrRbtToggleTypeColorLessText,
 .ChkOrRbtToggleRound input[type=checkbox]:checked ~ .ChkOrRbtToggleRoundText,
 .ChkOrRbtToggleRound input[type=radio]:checked ~ .ChkOrRbtToggleRoundText {
-    margin-right: 5px;
     color: black;
     border: solid 1px rgb(232, 123, 86);
     background-color: rgba(249, 205, 188, 0.69);
     font-weight: bold;
+}
+
+/* Wrapper div for each shape item */
+.dvShapeItem {
+    /* width: 80px; */
+    /* height: 120px; */
+    
+    padding: 4px;
+    box-sizing: border-box;
 }
