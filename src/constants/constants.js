@@ -26,7 +26,7 @@ export const FourCs = "/4-cs-lab-grown-diamonds";
 //     ? "http://localhost:8000/bhanderi-api"
 //     : "https://blgdlab.com/bhanderi-api";
 
-export const nodeUrl=  process.env.NODE_ENV === "development"
-    ? "https://localhost:44339/api"
+export const nodeUrl =
+  process.env.NODE_ENV === "development"
+    ? "https://localhost:5005/api"
     : "https://blgdlab.com/bhanderi-api";
-  
